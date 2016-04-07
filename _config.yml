@@ -1,6 +1,6 @@
 # Site settings
 project_name: ShowYourWorking
-project_site: http://showyourworking.github.io/sample-site
+project_site: http://showyourworking.github.io/
 software_name: ShowYourWorking
 email: info@showyourworking.org
 mailing_list: MAILINGLIST@TODO
@@ -8,7 +8,7 @@ mailing_list_archive: http://www.google.co.uk
 issue_tracker: http://github.com/showyourworking/chembiohub_helpdesk/issues
 issue_tracker_new_issue: http://github.com/showyourworking/chembiohub_helpdesk/issues/new
 code_repository: http://github.com/showyourworking/CODE_REPOSITORY
-doc_repository: http://github.com/showyourworking/sample-site
+doc_repository: http://github.com/showyourworking/showyourworking.github.io
 copyright: 2014-2016, ShowYourWorking. All rights reserved.
 doc_licence: "Creative Commons Attribution-NonCommercial 2.5 UK: Scotland (CC BY-NC 2.5 SCOTLAND)"
 doc_licence_url: http://creativecommons.org/licenses/by-nc/2.5/scotland/
