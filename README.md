@@ -3,7 +3,7 @@
 This repository contains a template for a sample research software
 project web site. 
 
-To view the web site, visit http://softwaresaved.github.io/sample-site.
+To view the web site, visit http://showyourworking.github.io/sample-site.
 
 The site is written in HTML and
 [MarkDown](http://daringfireball.net/projects/markdown/syntax), uses

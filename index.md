@@ -5,7 +5,9 @@ title: ShowYourWorking
 home: true
 ---
 
-{{ site.software_name }}  ...
+Placeholder for an introduction to ShowYourWorking
+
+((TODO Intro copy))
 
 ## Authors
 

@@ -6,6 +6,12 @@ title: Copyright and license
 
 ((TODO decide on appropriate licence for ShowYourWorking))
 
+Possibilities:
+
+* two versions with different licences;
+* Factor out the chemistry/chemdoodle parts and have these be under GPL;
+* Have the build script or fabfile prompt for acceptance of a different licence, possibly as part of deciding to use a chemistry version of ShowYourWorking
+
 Copyright (c) {{ site.copyright }}
 
 Apache License
