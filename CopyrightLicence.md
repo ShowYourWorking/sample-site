@@ -4,6 +4,8 @@ root: .
 title: Copyright and license
 ---
 
+((TODO decide on appropriate licence for ShowYourWorking))
+
 Copyright (c) {{ site.copyright }}
 
 Apache License

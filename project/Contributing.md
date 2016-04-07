@@ -65,9 +65,7 @@ name will be kept on its pages. We will also add you to our
 
 ## Feature or enhancement requests or bug reports
 
-EITHER e-mail us at {{ site.mailing_list }} or {{ site.email }}
-
-OR create a  [new ticket]({{ site.issue_tracker_new_issue}}).
+EITHER e-mail us at {{ site.email }} or use the GitHub issue tracker at ((TODO fork and rename chembiohub_helpdesk)) and create a  [new ticket]({{ site.issue_tracker_new_issue}}).
 
 See [Get in Touch, Help and Support](./HelpAndSupport.html) for what
 information to provide.
@@ -96,17 +94,10 @@ EITHER e-mail us at {{ site.mailing_list }} or {{ site.email }}. Include:
 * OR a patch file created using the Linux/UNIX `diff` command.  
 * If you modified a source code release then give the version
   number of that release. 
-* If you modified a version from Subversion then give the
-  revision you modified:
-
-~~~
-$ svn info
-~~~
-
-  - If you are using a version from Git then give the commit hash
-    of the version you modified (if you have commited any local
-    changes to your Git repository then give the commit hash for
-    the commit prior to your local changes):
+* If you are using a version from Git then give the commit hash
+of the version you modified (if you have commited any local
+changes to your Git repository then give the commit hash for
+the commit prior to your local changes):
 
 ~~~
 $ git log
@@ -114,9 +105,6 @@ $ git log
 
 OR submit a pull request against the *gh-pages* branch of 
 {{ site.code_repository }}.
-
-For Subversion, we will put your contribution into a branch of the
-repository.
 
 We will check that your code compiles, that your code conforms to the 
 {{ site.software_name }} coding standards, and that your tests

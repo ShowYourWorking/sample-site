@@ -1,7 +1,7 @@
 ---
 layout: home
 root: .
-title: SOFTWARE PROJECT
+title: Show Your Working
 home: true
 ---
 
