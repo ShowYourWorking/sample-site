@@ -151,13 +151,13 @@ root: .
 * Link to them using e.g.
 
 ```
-[Some image]({{ site.baseurl }}/assets/somedirectory/someimage.jpg)
+[Some image](/assets/somedirectory/someimage.jpg)
 ```
 
 * For inline images:
 
 ```
-![Image description]({{ site.baseurl }}/assets/somedirectory/someimage.jpg)
+![Image description](/assets/somedirectory/someimage.jpg)
 ```
 
 ### Command-line, code and file excerpts

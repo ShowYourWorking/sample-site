@@ -42,7 +42,7 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
                 <h2 class="blue" id="loggingin">Logging in and initial screen</h2>
                 <p>When you log onto AssayReg, you will see a list of the projects you have been given access to. If you think you should be able to access a project not shown in this list, please contact ChemBio Hub <a href="mailto:info@chembiohub.ox.ac.uk" role="button" class="btn btn-default"><span class="glyphicon glyphicon-envelope"></span> info@chembiohub.ox.ac.uk</a> </p>
                 <p>Each project has a number of options available:
-                    <img src="{{ site.baseurl }}/assets/images/help/project-list-item.png" class="img img-responsive center-block">
+                    <img src="/assets/images/help/project-list-item.png" class="img img-responsive center-block">
                     <ul>
                         <!-- <li><strong>Project Data Overview</strong> - click the project title to be taken to the Project Data Overview page;</li> -->
                         <li><strong>Assay</strong> - click <strong>Data Overview</strong> to be taken to the Project Data Overview page;</li>
@@ -64,7 +64,7 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
                 <h3 class="blue" id="show-details">Show details</h3>
                 <p>You can see the data for a particular level by clicking the appropriate <strong>Actions</strong> button and clicking View Details. This will open a popup window.</p>
-                <p><img src="assets/images/help/view-details.png" class="img img-responsive center-block"> <img src="{{ site.baseurl }}/assets/images/help/details-modal.png" class="img img-responsive center-block"></p>
+                <p><img src="assets/images/help/view-details.png" class="img img-responsive center-block"> <img src="/assets/images/help/details-modal.png" class="img img-responsive center-block"></p>
                 <p></p>
 
                 <h3 class="blue">Editing</h3>
@@ -79,7 +79,7 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
                 <p>If your Activity data references a specific compound, an image of that structure will be shown, provided the UOX ID is registered in this project.</p>
 
                 <h3 class="blue" >Filtering activities</h3>
-                <p><img src="{{ site.baseurl }}/assets/images/help/filter-and-download.png" class="img img-responsive center-block"></p>
+                <p><img src="/assets/images/help/filter-and-download.png" class="img img-responsive center-block"></p>
                 <p></p> 
                 <p>At the top of the Activities section is a filter text box. So for example, if you type "dichloro" into the text box, the Activities table will only show rows that contain "dichloro" in any of the columns.</p>
 
@@ -91,9 +91,9 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
                 <h3 class="blue" >Single record</h3>
                 <p>Adding a single record is the simplest means of getting data into the system. Click <strong>Add Single Activity</strong> and select the correct Assay template to use from the list shown.</p>
-                <p><img src="{{ site.baseurl }}/assets/images/help/single-activity-button.png" class="img img-responsive center-block"></p>
+                <p><img src="/assets/images/help/single-activity-button.png" class="img img-responsive center-block"></p>
                 <p>A form is then displayed with a placeholder for each field defined in this specific assay. Some fields will be limited in what can be input- for example dates will show a datepicker/calendar field.</p>
-                <p><img src="{{ site.baseurl }}/assets/images/help/single-activity.png" class="img img-responsive center-block"></p>
+                <p><img src="/assets/images/help/single-activity.png" class="img img-responsive center-block"></p>
                 <p>When you have added the necessary data, click the Submit button. Your data will be saved and will be vsible in the Activity table.</p>
 
                 <h3 class="blue" >Multiple records (via upload)</h3>
@@ -105,19 +105,19 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
                     <ul>
                         <li>
                             Within the Sub-project and Assay you wish to register the data to, select ‘Upload Multiple Activities’. Select the Assay definition relevant to your data.<br>
-                            <p><img src="{{ site.baseurl }}/assets/images/help/multiple-activities-1.png" class="img img-responsive center-block"><br></p>
+                            <p><img src="/assets/images/help/multiple-activities-1.png" class="img img-responsive center-block"><br></p>
                         </li>   
                         <li>
                             Drag your file into the space shown or click upload and choose your data file.<br>
-                            <p><img src="{{ site.baseurl }}/assets/images/help/multiple-activities-2.png" class="img img-responsive center-block"><br></p>
+                            <p><img src="/assets/images/help/multiple-activities-2.png" class="img img-responsive center-block"><br></p>
                         </li>   
                         <li>
                             If your file contains multiple tabs, select the relevant one. The data will be previewed below.<br>
-                            <p><img src="{{ site.baseurl }}/assets/images/help/multiple-activities-3.png" class="img img-responsive center-block"><br></p>
+                            <p><img src="/assets/images/help/multiple-activities-3.png" class="img img-responsive center-block"><br></p>
                         </li>   
                         <li>
                             If all mandatory fields which can't be mapped from your file, you can click ‘Save this sheet’. Your data is now registered to your project in AssayReg. <br>
-                            <p><img src="{{ site.baseurl }}/assets/images/help/multiple-activities-4.png" class="img img-responsive center-block"><br></p>
+                            <p><img src="/assets/images/help/multiple-activities-4.png" class="img img-responsive center-block"><br></p>
                         </li>
                     </ul>
                 </p>
@@ -132,15 +132,15 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
                 <p>You will need to map a column in your file to an Activity column manually if the names are slightly different - for example, you may have a column called "1st Run" in your file and a column called "1st Observation" in the Activity table. They have the same meaning for your work but have been labelled differently. To do this, click the mapping icon in the column you want to map.<br>
                 </p>
-                <p><img src="{{ site.baseurl }}/assets/images/help/filter-icon.png" class="img img-responsive center-block"><br></p>
+                <p><img src="/assets/images/help/filter-icon.png" class="img img-responsive center-block"><br></p>
                 <p>A window wil display which will allow you to specify the field you wish to map to.</p>
-                <p><img src="{{ site.baseurl }}/assets/images/help/mapping-popup.png" class="img img-responsive center-block"><br></p>
+                <p><img src="/assets/images/help/mapping-popup.png" class="img img-responsive center-block"><br></p>
 
                 <h3 class="blue" >Unmappable fields</h3>
                 <p>Unmappable fields are caused by data fields in your file not matching the type expected by AssayReg for the Assay you are adding to. For example, you may be mapping your column containing text descriptions to a column expecting numerical values or dates.</p> 
 
                 <p>Unmappable fields are shown in the mapping popup window for a particular column. You will see a message stating that there is a data type conflict, and the rows causing the issue (together with the row value) are displayed in a table.</p>
-                <p><img src="{{ site.baseurl }}/assets/images/help/unmappable-fields.png" class="img img-responsive center-block"></p>
+                <p><img src="/assets/images/help/unmappable-fields.png" class="img img-responsive center-block"></p>
 
                 <p>If this happens you should correct the data in your Excel file, and try uploading again. If you believe your data to be in the correct format, you should contact an AssayReg administrator. <a href="mailto:info@chembiohub.ox.ac.uk" role="button" class="btn btn-default"><span class="glyphicon glyphicon-envelope"></span> info@chembiohub.ox.ac.uk</a></p>
 
@@ -152,7 +152,7 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
                 <p>The search bar allows you to type text, with matches for that text displayed instantly below. If the text matches any value in  Assay, Sub-Project or Project titles, you can click those links and see data for that item in the search page.</p>
 
-                <p><img src="{{ site.baseurl }}/assets/images/help/searchbar.png" class="img img-responsive center-block"></p>
+                <p><img src="/assets/images/help/searchbar.png" class="img img-responsive center-block"></p>
 
                 <p>You are also able to search for your text phrase easily on <a href="https://pubchem.ncbi.nlm.nih.gov/about.html" target="_blank">PubChem</a> - just click the link at the bottom, a new window or tab will open in your browser and you will see results for your search displayed on the PubChem website.</p>
 
@@ -163,7 +163,7 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
                 <h3 class="blue" >Dates</h3>
                 <p>You can specify a date range for when records were added to the system - use the <strong>Activity Date From</strong> and <strong>Activity Date To</strong> calendar fields to specify your dates. Results are updated automatically. To remove a date selection, open the date popup and click Clear.</p>
-                <p><img src="{{ site.baseurl }}/assets/images/help/date-popup.png" class="img img-responsive center-block"></p>
+                <p><img src="/assets/images/help/date-popup.png" class="img img-responsive center-block"></p>
 
                 <h3 class="blue" >User</h3>
                 <p>You can specify the user or users who uploaded the data you wish to see. Select the names of users from the dropdown list, and they will be displayed as a tag list in the search box. You can remove any users you have selected. Results are updated automatically.</p>
@@ -180,11 +180,11 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
                         <li>AssayReg translates your data to the format required by <a href="https://www.ebi.ac.uk/chembl/" target="_blank">ChEMBL</a>. To view data in a ChEMBL format, use the Search page to find your data.</li>
                         <li>
                             You are now in the AssayReg search page. On the data record you wish to export, click ‘View as ChEMBL data’
-                            <p><img src="{{ site.baseurl }}/assets/images/help/chembl-1.png" class="img img-responsive center-block"></p>
+                            <p><img src="/assets/images/help/chembl-1.png" class="img img-responsive center-block"></p>
                         </li>
                         <li>
                             Your activity data should now be visible as a JSON schema form. This is the format in which it will be deposited to ChEMBL - highlight the text, copy and paste into the ChEMBL submission form.
-                            <p><img src="{{ site.baseurl }}/assets/images/help/chembl-2.png" class="img img-responsive center-block"></p>
+                            <p><img src="/assets/images/help/chembl-2.png" class="img img-responsive center-block"></p>
                         </li>
                     </ul>
                 </p>
