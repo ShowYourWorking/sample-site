@@ -14,7 +14,7 @@ doc_licence: "Creative Commons Attribution-NonCommercial 2.5 UK: Scotland (CC BY
 doc_licence_url: http://creativecommons.org/licenses/by-nc/2.5/scotland/
 
 # gh-pages site subpath
-baseurl: "/sample-site"
+baseurl: "/"
 
 # Entries for menubar.
 # title: caption used for item.
