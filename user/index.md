@@ -7,11 +7,13 @@ title: Use
 These pages contain information on how to 
 use {{ site.software_name }} i.e. contain our current adapted end-user documentation.
 
-((TODO start moving help docs across as they are, maybe with TODOS for altered functionality and screenshots))
+((TODO altered functionality and screenshots to be accounted for))
 
-##Using Show Your Working
+##Using ShowYourWorking
 
 ((TODO convert the current HTML to markdown to allow easy editing and sub-title anchoring))
+
+((TODO separate out generic-use user steps from chemireg-sprecific usage steps))
 
 <div class="row mt">
     <div class="col-sm-8 col-sm-offset-2"  style="padding-left:15px;">

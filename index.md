@@ -1,7 +1,7 @@
 ---
 layout: home
 root: .
-title: Show Your Working
+title: ShowYourWorking
 home: true
 ---
 

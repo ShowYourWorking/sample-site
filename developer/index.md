@@ -13,13 +13,15 @@ write tests, coding standards, and release process.
 
 ## Technologies
 
-Show Your Working leverages the following technologies to help with your work:
+ShowYourWorking leverages the following technologies to help with your work:
 
 ((TODO technology stack here))
 
 ((TODO Any further explanation of these here))
 
-## Show Your Working code
+((TODO link to the github repos or documentation of key 3rd party libs like tatsypie, angular schema form etc))
+
+## ShowYourWorking code
 
 Our repositories are at ((TODO list new repository locations and link to them)).
 
@@ -27,7 +29,7 @@ Our repositories are at ((TODO list new repository locations and link to them)).
 
 Detailed technical documentation is available within the wikis for these repositories.
 
-## Show Your Working testing
+## ShowYourWorking testing
 
 ((TODO outline our testing mechanism - Travis, Behave etc))
 
