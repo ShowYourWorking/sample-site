@@ -3,9 +3,9 @@
     <li>
       {% if p.home %}
         <!-- Do not highlight caption if on Home page -->
-        <a href="{{ p.url }}">
+        <a href="{{ site.baseurl }}{{ p.url }}">
       {% else %}
-        <a {% if p.url == page.url %}class="menubar-selection"{% endif %} href="{{ p.url }}">
+        <a {% if p.url == page.url %}class="menubar-selection"{% endif %} href="{{ site.baseurl }}{{ p.url }}">
       {% endif %}
         {{ p.title }}
       </a>
