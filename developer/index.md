@@ -21,22 +21,11 @@ ShowYourWorking leverages the following technologies to help with your work:
 
 <section class="tech-stack" id="tech-stack">
 
-### Front end technologies - what you see
+{% for section in site.techstack %}
 
-{% for item in site.techstack.you_see %}
+<h3>{{section.title}}</h3>
 
-<div id="{{item.id}}" class="tech-stack-item">
-<div class="row">
-  <div class="col-xs-3"><img src="/assets/images/tech_stack/{{item.id}}.png" class="img img-responsive"></div>
-  <div class="col-xs-9"><p><a href="{{item.link}}">{{item.name}}</a><br>{{item.description}}</p></div>
-</div>
-</div>
-
-{% endfor %}
-
-### Service Layer and Database - What this all runs on
-
-{% for item in site.techstack.runs_on %}
+{% for item in section.items %}
 
 <div id="{{item.id}}" class="tech-stack-item">
 <div class="row">
@@ -46,17 +35,6 @@ ShowYourWorking leverages the following technologies to help with your work:
 </div>
 
 {% endfor %}
-
-### Testing and Deployment
-
-{% for item in site.techstack.deploy_test %}
-
-<div id="{{item.id}}" class="tech-stack-item">
-<div class="row">
-  <div class="col-xs-3"><img src="/assets/images/tech_stack/{{item.id}}.png" class="img img-responsive"></div>
-  <div class="col-xs-9"><p><a href="{{item.link}}">{{item.name}}</a><br>{{item.description}}</p></div>
-</div>
-</div>
 
 {% endfor %}
 
