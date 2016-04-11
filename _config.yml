@@ -42,3 +42,89 @@ menubar:
 # Build settings
 highlighter: rouge
 markdown: kramdown
+
+#tech stack elements
+techstack:
+  you_see:
+  - id: html5
+    name: "HTML5 and CSS3"
+    description: "We use HTML5 and CSS3 to deliver a modern cross-platform interface and utilise modern features such as CSS based animations."
+    link: "http://www.html5rocks.com/en/"
+  - id: jquery
+    name: "jQuery"
+    description: "Javascript DOM manipulation library to help provide a modern interface."
+    link: "https://jquery.com/"
+  - id: bootstrap
+    name: "Bootstrap 3"
+    description: "Layout and themeing library allowing column based layouts and responsive architecture for mobile-first development and cross platform systems."
+    link: "http://getbootstrap.com/"
+  - id: angular
+    name: "Angular JS"
+    description: "Javascript library to provide powerful in-browser functionality such as two way data binding, easier web service interaction and resusable modular components."
+    link: "https://angularjs.org/"
+  runs_on:
+  - id: django
+    name: "Django Framework"
+    description: "Python based CMS which provides many useful pre-baked features which are commonly found in CMS systems."
+    link: "https://www.djangoproject.com/"
+  - id: tastypie
+    name: "Tastypie RESTful web service API"
+    description: "Tastypie is a webservice API framework for Django. It provides a convenient, yet powerful and highly customizable, abstraction for creating REST-style interfaces. ShowYourWorking uses it to aid with authorization and security, binary exports and interacting with Elasticsearch."
+    link: "http://tastypieapi.org/"
+  - id: gunicorn
+    name: "Gunicorn"
+    description: "Gunicorn 'Green Unicorn' is a Python WSGI HTTP Server for UNIX."
+    link: "http://gunicorn.org/"
+  - id: webauth
+    name: "WebAuth"
+    description: "WebAuth is a web-based, single-sign-on authentication system which can interact with an external user list and existing authentication (for example with an academic institution) . ShowYourWorking has previously used Oxford University's implementation of WebAuth."
+    link: "http://help.it.ox.ac.uk/webauth/services"
+  - id: apache
+    name: "Apache HTTP Server Project"
+    description: "Apache Web server is used to serve the ShowYourWorking to the outside world."
+    link: "https://httpd.apache.org/"
+  - id: postgres
+    name: "PostgreSQL"
+    description: "PostgreSQL is a powerful open source database system which integrates well with Django and opens up possibilities such as NoSQL fields."
+    link: "http://www.postgresql.org/"
+  - id: ubuntu
+    name: "Ubuntu Server"
+    description: " Ubuntu Server delivers the best value scale-out performance available, is freely available and used as the basis of ShowYourWorking's operating system."
+    link: "http://www.ubuntu.com/server"
+  - id: elasticsearch
+    name: "Elasticsearch"
+    description: "Elasticsearch is a powerful, open source, schema-free, document-based search and indexing system."
+    link: "https://www.elastic.co/products/elasticsearch"
+  deploy_test:
+  - id: github
+    name: "GitHub Social Coding"
+    description: "GitHub is used to house our code. It is open source and aids collaboration. You can fork our code and make improvements or start your own version with ShowYourWorking as a base. You can also find detailed technical documentation for ShowYourWorking on GitHub."
+    link: "https://github.com/"
+  - id: sentry
+    name: "Sentry"
+    description: "Sentry provides error logging and monitoring for our hosted ShowYourWorking instances. You can set up your own sentry to monitor error logs from your ShowYourWorking installation."
+    link: "https://getsentry.com/welcome/"
+  - id: travis
+    name: "Travis Continuous Integration"
+    description: "Travis is a continuous integration platform which allows tests on newly committed code to be run automatically and reported."
+    link: "https://travis-ci.com/"
+  - id: behave
+    name: "Behave for Behaviour Driven Development"
+    description: "behave uses tests written in a natural language style with reuasable scenrio based components, backed up by Python code."
+    link: "http://pythonhosted.org/behave/"
+  - id: fabric
+    name: "Fabric"
+    description: "Fabric is a python based deployment system which can be used to carry out tasks on local or remote servers via SSH."
+    link: "http://www.fabfile.org/"
+  - id: jekyll
+    name: "Jekyll"
+    description: "Jekyll is a Ruby-based static site generator, which permits the use of reusable templates and inserts. Jekyll is used to host this site on GitHub Pages (for free!)."
+    link: "https://jekyllrb.com/"
+  - id: grunt
+    name: "Grunt"
+    description: "Grunt is an automated task runner which ShowYourWorking uses for deployment of the user interface, it also allows side tasks to be run such as CSS and JavaScript minification."
+    link: "http://gruntjs.com/"
+  - id: bower
+    name: "Bower"
+    description: "Bower is our JavaScript dependency management tools - it ensures that third-party code libraries are up to date and included in any deployment made, or fixes them at a point in time to stop accidental upgrades which break functionality."
+    link: "http://bower.io/"
