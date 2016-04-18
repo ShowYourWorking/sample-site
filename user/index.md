@@ -7,13 +7,11 @@ title: Use
 These pages contain information on how to 
 use {{ site.software_name }} i.e. contain our current adapted end-user documentation.
 
-((TODO altered functionality and screenshots to be accounted for))
-
 ## Using ShowYourWorking
 
-((TODO convert the current HTML to markdown to allow easy editing and sub-title anchoring))
-
 ((TODO separate out generic-use user steps from chemireg-sprecific usage steps))
+
+((TODO current user help docs are now out of date - much search functionality has changed. Needs rewriting in a generic way for ShowYourWorking. Altered functionality and screenshots to be accounted for ))
 
 <div class="row mt">
     <div class="col-sm-8 col-sm-offset-2"  style="padding-left:15px;">
