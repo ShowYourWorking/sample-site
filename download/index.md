@@ -6,11 +6,11 @@ title: Get ShowYourWorking
 
 This page shows how to download and run ShowYourWorking - getting the user to the point where they can start using the "How To Use" documentation in [Use](../user/index.html)
 
-##Downloading and running ShowYourWorking
+## Downloading and running ShowYourWorking
 
 You can have an installation of {{ site.software_name }} for your personal use up and running very quickly using these instructions.
 
-###Installation
+## Installation
 
 The {{ site.software_name }} platform consists of:
 
@@ -47,7 +47,7 @@ Follow these steps to install:
 
 For more details on what has been installed see [Running the python server and database in production](https://github.com/thesgc/chembiohub_ws/wiki/Running-the-python-server-and-database-in-production).
 
-###Getting Started Once Installed
+## Getting Started Once Installed
 
 Once you have got the system up and running, you will need to add more users and change your password.
 
