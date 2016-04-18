@@ -9,7 +9,7 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
 ((TODO altered functionality and screenshots to be accounted for))
 
-##Using ShowYourWorking
+## Using ShowYourWorking
 
 ((TODO convert the current HTML to markdown to allow easy editing and sub-title anchoring))
 
