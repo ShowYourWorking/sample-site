@@ -5,6 +5,12 @@ title: ShowYourWorking
 home: true
 ---
 
+ **{{ site.software_name }} is a data management platform developed by the University of Oxford in 2015 and 2016**.
+
+The objective was to have an easy-to-use web application which researchers readily adopted because the benefits of managing their research data in a structured and safe way were easy to achieve.  We focused on minimising the effort needed to upload existing data into the application, making the user experience intuitive, and extracting data painlessly when needed.  
+
+The application can be used in various research disciplines, although it was created by the [ChemBio Hub project](http://chembiohub.ox.ac.uk), with a remit to manage the recording and retrieval of chemical compound data such as characterisation and structural information. Depending how administrators set up configuration, it can also be used for inventory management of materials (typically within scientific laboratories, although other inventories can be handled just as easily).  It can also be used in any discipline which produces data outputs in the form of tabular data, whether in scientific, social science or humanities research.
+
 ## The problem
 
 Often research groups have problems keeping track of things they are working on and how they are carrying out their research. Over time, as members of the team leave and new people join, knowledge is lost about what materials exist, which projects they belong to, their physical location, and supplier and catalogue details and techniques for research. Lack of systematic record keeping inevitably leads to duplication of effort, wasting time, money and space. It also raises the very real risk that recorded experiments will be unreproducible if materials are not exactly what they are assumed to be, or methods have changed or been made obsolete.

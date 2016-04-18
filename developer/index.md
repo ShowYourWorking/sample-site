@@ -9,13 +9,17 @@ These pages contain information on how to develop
 development tools, test tools, how to develop components, how to
 write tests, coding standards, and release process.
 
-* [Coding standards](./CodingStandards.html)
+* [Technical Documentation Wiki](https://github.com/thesgc/chembiohub_ws/wiki)
+* [Angular API](../docs/) (beta - under development)
+* [Repositories on GitHub](http://github.com/showyourworking)
 
 ## ShowYourWorking code
 
 Our repositories are located [on GitHub](http://github.com/showyourworking).
 
 {{ site.software_name }} is built on Django, the Python CMS. You can find out more information on Django here. {{ site.software_name }} currently uses version 1.7 of Django, with Python version 2.7.
+
+{{ site.software_name }} currently uses Angular v1.3 for the user interface. An API of all the code used within the app is viewable [here](../docs/)
 
 Django is used primarily to provide a web service architecture for the applications and the user and login functionality. Django was primariliy selected for this purpose because of its open source nature, written in the Python programming language for interaction with chemically-aware software such as RDKit via ChEMBL's web service architecture and also with existing python tools for integrating with the University of Oxford's WebAuth single sign on system.
 
