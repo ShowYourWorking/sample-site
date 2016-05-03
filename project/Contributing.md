@@ -4,6 +4,8 @@ root: ..
 title: How to Contribute (draft)
 ---
 
+((TODO - Make this reflect best practice for how to contribute when ShowYourWorking becomes a going concern - mailing lists etc))
+
 Anyone can contribute to {{ site.software_name }}, regardless of their
 skills, as there are many ways to contribute. There follows a summary
 of what contributions can be made, how they are made, any conditions

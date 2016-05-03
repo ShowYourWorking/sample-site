@@ -4,6 +4,8 @@ root: ..
 title: Get in Touch, Help and Support (draft)
 ---
 
+((TODO This is boilerplate for the most part - page should reflect how to contact when ShowYourWOrking is a going concern)).
+
 ## How to get in touch
 
 E-mail {{ site.mailing_list }} with:
@@ -62,12 +64,10 @@ The following versions are supported:
 
 * Source code releases with a version number.
 * Binary releases with a version number.
-* Tagged release versions in our Subversion repository.
 * Tagged release versions in our Git repository.
 
 The following versions are **not** supported:
 
-* Any version in Subversion that is not a tagged release version.
 * Any version in Git that is not a tagged release version.
 * Modified versions released by third-parties.
 
@@ -93,15 +93,6 @@ we'll do the best we can, given our other commitments).
 
 ~~~
 $ ./TODO-SOFTWARE-NAME --version
-~~~
-
-  - If you are using a binary release then the version number can be
-    seen using the Help => About menu option.
-  - If you are using a version from Subversion then give the 
-    revision you are using:
-
-~~~
-$ svn info
 ~~~
 
   - If you are using a version from Git then give the commit hash

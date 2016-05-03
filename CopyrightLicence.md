@@ -1,7 +1,7 @@
 ---
 layout: page
 root: .
-title: Copyright and license
+title: Copyright and license (draft)
 ---
 
 ((TODO decide on appropriate licence for ShowYourWorking))
