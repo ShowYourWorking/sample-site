@@ -122,12 +122,12 @@ NG_DOCS={
     },
     {
       "section": "api",
-      "id": "chembiohubAssayApp.controller:CompoundbatchCtrl",
-      "shortName": "CompoundbatchCtrl",
-      "type": "function",
+      "id": "chembiohubAssayApp.controller:Compoundbatchv2Ctrl",
+      "shortName": "Compoundbatchv2Ctrl",
+      "type": "controller",
       "moduleName": "chembiohubAssayApp",
-      "shortDescription": "CompoundbatchCtrl",
-      "keywords": "api chembiohubassayapp compoundbatchctrl controller function"
+      "shortDescription": "Compoundbatchv2Ctrl",
+      "keywords": "$on $scope api assembled broadcast call cbh chembiohubassayapp chemical chemicalsearch clears compoundbatchv2ctrl controller data default empty error event form hit hits initialises list method parameter parameters posting prevous resetcompoundlist resets resetsearch return scope search searches set simply skinconfig triggering url"
     },
     {
       "section": "api",
