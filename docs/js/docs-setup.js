@@ -127,7 +127,7 @@ NG_DOCS={
       "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "Compoundbatchv2Ctrl",
-      "keywords": "$on $scope api assembled broadcast call cbh chembiohubassayapp chemical chemicalsearch clears compoundbatchv2ctrl controller data default empty error event form hit hits initialises list method parameter parameters posting prevous resetcompoundlist resets resetsearch return scope search searches set simply skinconfig triggering url"
+      "keywords": "$on $scope api assembled broadcast callback calls cbh chembiohubassayapp chemical chemicalfilterapplied chemicalsearch clears compoundbatchv2ctrl controller data default empty error form format friendly function functionality hit hits initialises list method notifies object parameter parameters posting prevous removestructuresearch resetcompoundlist resets resetsearch return scope search searches serialize set simply skinconfig structure trigger turn url"
     },
     {
       "section": "api",
