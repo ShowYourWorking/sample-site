@@ -61,10 +61,10 @@ NG_DOCS={
       "section": "api",
       "id": "chembiohubAssayApp.controller:AboutCtrl",
       "shortName": "AboutCtrl",
-      "type": "function",
+      "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "AboutCtrl",
-      "keywords": "aboutctrl api chembiohubassayapp controller deprecated function"
+      "keywords": "aboutctrl api chembiohubassayapp controller"
     },
     {
       "section": "api",
@@ -79,46 +79,46 @@ NG_DOCS={
       "section": "api",
       "id": "chembiohubAssayApp.controller:AddDataCtrl",
       "shortName": "AddDataCtrl",
-      "type": "function",
+      "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "AddDataCtrl",
-      "keywords": "adddatactrl addition api app chembiohubassayapp control controller data editing equivalents function functions viewing"
+      "keywords": "adddatactrl addition api app chembiohubassayapp control controller data editing equivalents functions viewing"
     },
     {
       "section": "api",
-      "id": "chembiohubAssayApp.controller:AddsinglecompoundCtrl",
-      "shortName": "AddsinglecompoundCtrl",
-      "type": "function",
+      "id": "chembiohubAssayApp.controller:AddSingleCompoundCtrl",
+      "shortName": "AddSingleCompoundCtrl",
+      "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "AddsinglecompoundCtrl",
-      "keywords": "$on $scope accomplished add addition addsinglecompoundctrl addsupplementaryfield api appropriate autocomplete based batch batches better broadcast button buttons chembiohubassayapp chemdoodle chemical cloned code compound compounds consistency controller create createmultibatch currently custom data defined directive doen drawing drawn dropdown editing extra field fields form function implemented inside method molecule multiple object onsubmit openedtaggingdropdown order probaly pulls redirect remove removesupplemetaryfield revert save savetemporarycompounddata saving schema schemaform search sending sends setmolecule single standard submission supplementary tag type ui update user valancies validate validatedrawn validateotherformdata validation version"
+      "keywords": "$on $scope accomplished add addition addsinglecompoundctrl addsupplementaryfield allowing angular api appropriate attachment attachments autocomplete based batch batches better boolean broadcast button buttons call callback check checked chembiohubassayapp chemdoodle chemical cloned code command compound compounds condition consistency controller create createmultibatch currently custom data defined directive display doen drawing drawn dropdown editing exceeds extra fails false field fields file files flowfile fo form form_key forms function functionality identifier identity implemented injected inside limit limits list method molecule multiple myform object onsubmit openedtaggingdropdown order position post probaly pulls queue record redirect removal remove removed removefile removeid removesupplemetaryfield returned revert save saved savetemporarycompounddata saving schema schemaform search sending sends setmolecule single size sizecheck standard submission success supplementary tag trigger type ui unique update upload uploaded upoaded url user valancies validate validatedrawn validateotherformdata validating validation version widget"
     },
     {
       "section": "api",
       "id": "chembiohubAssayApp.controller:BatchesCtrl",
       "shortName": "BatchesCtrl",
-      "type": "function",
+      "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "BatchesCtrl",
-      "keywords": "api batchesctrl chembiohubassayapp controller function"
+      "keywords": "api batchesctrl chembiohubassayapp controller"
     },
     {
       "section": "api",
       "id": "chembiohubAssayApp.controller:CbhCtrl",
       "shortName": "CbhCtrl",
-      "type": "function",
+      "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "CbhCtrl",
-      "keywords": "api cbhctrl chembiohubassayapp controller function"
+      "keywords": "api cbhctrl chembiohubassayapp controller"
     },
     {
       "section": "api",
       "id": "chembiohubAssayApp.controller:CompoundbatchCtrl",
       "shortName": "CompoundbatchCtrl",
-      "type": "function",
+      "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "CompoundbatchCtrl",
-      "keywords": "api chembiohubassayapp compoundbatchctrl controller function"
+      "keywords": "api chembiohubassayapp compoundbatchctrl controller"
     },
     {
       "section": "api",
@@ -127,88 +127,88 @@ NG_DOCS={
       "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "Compoundbatchv2Ctrl",
-      "keywords": "$on $scope api assembled broadcast callback calls cbh chembiohubassayapp chemical chemicalfilterapplied chemicalsearch clears compoundbatchv2ctrl controller data default empty error form format friendly function functionality hit hits initialises list method notifies object parameter parameters posting prevous removestructuresearch resetcompoundlist resets resetsearch return scope search searches serialize set simply skinconfig structure trigger turn url"
+      "keywords": "$on $scope api assembled broadcast callback calls cbh chembiohubassayapp chemical chemicalfilterapplied chemicalsearch clears compoundbatchv2ctrl controller data default empty error form format friendly function functionality hit hits initialises list method notifies object openedsearchdropdown parameter parameters posting prevous removestructuresearch resetcompoundlist resets resetsearch return scope search searches serialize set simply skinconfig structure trigger turn update url"
     },
     {
       "section": "api",
-      "id": "chembiohubAssayApp.controller:DataoverviewCtrl",
-      "shortName": "DataoverviewCtrl",
-      "type": "function",
+      "id": "chembiohubAssayApp.controller:DataOverviewCtrl",
+      "shortName": "DataOverviewCtrl",
+      "type": "controller",
       "moduleName": "chembiohubAssayApp",
-      "shortDescription": "DataoverviewCtrl",
-      "keywords": "api chembiohubassayapp controller dataoverviewctrl function"
+      "shortDescription": "DataOverviewCtrl",
+      "keywords": "api chembiohubassayapp controller dataoverviewctrl"
     },
     {
       "section": "api",
       "id": "chembiohubAssayApp.controller:EditDataCtrl",
       "shortName": "EditDataCtrl",
-      "type": "function",
+      "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "EditDataCtrl",
-      "keywords": "addition api app chembiohubassayapp control controller data editdatactrl editing equivalents function functions viewing"
+      "keywords": "addition api app chembiohubassayapp control controller data editdatactrl editing equivalents functions viewing"
     },
     {
       "section": "api",
       "id": "chembiohubAssayApp.controller:PlatemapCtrl",
       "shortName": "PlatemapCtrl",
-      "type": "function",
+      "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "PlatemapCtrl",
-      "keywords": "api chembiohubassayapp controller function platemapctrl"
+      "keywords": "api chembiohubassayapp controller platemapctrl"
     },
     {
       "section": "api",
       "id": "chembiohubAssayApp.controller:ProjectCtrl",
       "shortName": "ProjectCtrl",
-      "type": "function",
+      "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "ProjectCtrl",
-      "keywords": "api chembiohubassayapp controller function projectctrl"
+      "keywords": "api chembiohubassayapp controller projectctrl"
     },
     {
       "section": "api",
       "id": "chembiohubAssayApp.controller:ProjectfieldsCtrl",
       "shortName": "ProjectfieldsCtrl",
-      "type": "function",
+      "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "ProjectfieldsCtrl",
-      "keywords": "api chembiohubassayapp controller function projectfieldsctrl"
+      "keywords": "api chembiohubassayapp controller projectfieldsctrl"
     },
     {
       "section": "api",
       "id": "chembiohubAssayApp.controller:ProjectlistCtrl",
       "shortName": "ProjectlistCtrl",
-      "type": "function",
+      "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "ProjectlistCtrl",
-      "keywords": "api chembiohubassayapp controller function projectlistctrl"
+      "keywords": "api chembiohubassayapp controller projectlistctrl"
     },
     {
       "section": "api",
       "id": "chembiohubAssayApp.controller:ProjectpermissionsCtrl",
       "shortName": "ProjectpermissionsCtrl",
-      "type": "function",
+      "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "ProjectpermissionsCtrl",
-      "keywords": "api chembiohubassayapp controller function projectpermissionsctrl"
+      "keywords": "api chembiohubassayapp controller projectpermissionsctrl"
     },
     {
       "section": "api",
       "id": "chembiohubAssayApp.controller:SearchAssaysCtrl",
       "shortName": "SearchAssaysCtrl",
-      "type": "function",
+      "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "SearchAssaysCtrl",
-      "keywords": "api chembiohubassayapp controller function searchassaysctrl"
+      "keywords": "api chembiohubassayapp controller searchassaysctrl"
     },
     {
       "section": "api",
       "id": "chembiohubAssayApp.controller:SearchCtrl",
       "shortName": "SearchCtrl",
-      "type": "function",
+      "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "SearchCtrl",
-      "keywords": "api chembiohubassayapp controller function searchctrl"
+      "keywords": "api chembiohubassayapp controller searchctrl"
     },
     {
       "section": "api",
@@ -223,19 +223,19 @@ NG_DOCS={
       "section": "api",
       "id": "chembiohubAssayApp.controller:SinglemolCtrl",
       "shortName": "SinglemolCtrl",
-      "type": "function",
+      "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "SinglemolCtrl",
-      "keywords": "api chembiohubassayapp controller function singlemolctrl"
+      "keywords": "api chembiohubassayapp controller singlemolctrl"
     },
     {
       "section": "api",
       "id": "chembiohubAssayApp.controller:ViewDataCtrl",
       "shortName": "ViewDataCtrl",
-      "type": "function",
+      "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "ViewdataCtrl",
-      "keywords": "api chembiohubassayapp controller function viewdatactrl"
+      "keywords": "api chembiohubassayapp controller viewdatactrl"
     },
     {
       "section": "api",
@@ -275,8 +275,8 @@ NG_DOCS={
     },
     {
       "section": "api",
-      "id": "chembiohubAssayApp.directive:chemsvg\nCreates a data point",
-      "shortName": "chemsvg\nCreates a data point",
+      "id": "chembiohubAssayApp.directive:chemsvg",
+      "shortName": "chemsvg",
       "type": "directive",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "chemsvg",
@@ -284,8 +284,8 @@ NG_DOCS={
     },
     {
       "section": "api",
-      "id": "chembiohubAssayApp.directive:compoundTableHeader",
-      "shortName": "compoundTableHeader",
+      "id": "chembiohubAssayApp.directive:compoundtableheader",
+      "shortName": "compoundtableheader",
       "type": "directive",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "compoundTableHeader",
@@ -311,8 +311,8 @@ NG_DOCS={
     },
     {
       "section": "api",
-      "id": "chembiohubAssayApp.directive:HandsOnCompoundTable",
-      "shortName": "HandsOnCompoundTable",
+      "id": "chembiohubAssayApp.directive:handsoncompoundtable",
+      "shortName": "handsoncompoundtable",
       "type": "directive",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "HandsOnCompoundTable",
@@ -320,8 +320,8 @@ NG_DOCS={
     },
     {
       "section": "api",
-      "id": "chembiohubAssayApp.directive:HandsOnCompoundTable",
-      "shortName": "HandsOnCompoundTable",
+      "id": "chembiohubAssayApp.directive:handsoncompoundtablev2",
+      "shortName": "handsoncompoundtablev2",
       "type": "directive",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "HandsOnCompoundTable",
@@ -370,7 +370,7 @@ NG_DOCS={
       "type": "directive",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "SearchFilter",
-      "keywords": "api chembiohubassayapp directive searchfilter"
+      "keywords": "api cbh chembiohubassayapp configuration directive filtering globals help level object options panel render search searchfilter showing top"
     },
     {
       "section": "api",
