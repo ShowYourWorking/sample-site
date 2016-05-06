@@ -127,7 +127,7 @@ NG_DOCS={
       "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "Compoundbatchv2Ctrl",
-      "keywords": "$on $scope accounted actions add addhide adding addition addsort api app applying archive assembled backing backup bar based batch blank blankform broadcast built call callback called calls carries cascade cbh cbhcompoundbatch change changed changenumberperpage changes changesearchparams changeview checks chembiohubassayapp chemical chemicalfilterapplied chemicalsearch choice choices cleanupfilters clears client client-side clone cloneanitem cloned col column columns columnselection command completion compound compoundbatchv2ctrl consequently controller convenience correct correctly creates current currently data default defaults deselectallprojects direction displayed displaying dosinglecompoundvalidation edit element empty error event events existing fields filter filters filtersupdated flag forces form format friendly function functionality gallery generate getresultspage handles handsontable hidden hide hit hits html imagecallback images implemented indicates initialises initiates intended item list listener listens main method mode mol molecule move myform newly newmol newpage newparams notifies notify number object objects openedsearchdropdown openedtaggingdropdown original pagechanged pagechanged2 pagenumber pagination paging parameter parameters patch patched patchrecord perform populate populated posting pre-populated prevous prject proj project projects re-applies re-patch re-render record records refelct refresh remove removeallhides removed removeform removehide removes removesort removestructuresearch representing requests reset resetcompoundlist resets resetsearch result retrieval return returned reverting save savechangestocompounddataincontroller saved savesinglecompound saving scope scratch scrolls search searches searchvia selectallprojects selection selections selector send sends sendtosearch serialize service set sets setuppagenumbers side signals simply skinconfig sort sourceofchange start structure supplied switch switches switching tables tagging temporary toggleadddata toggleaddingoff toggled toggleeditmode toggleprojectfiltered trigger turn undo undochanges update updatelistview updates url user validation version view views viewtype web"
+      "keywords": "$on $scope accounted actions add addhide adding addition addsort allowing angular answer api app application applying archive assembled attachment attachments backing backup bar based batch blank blankform boolean broadcast broadcasts built call callback called calls carries cascade cbh cbhcompoundbatch change changed changenumberperpage changes changesearchparams changeview check checked checks chembiohubassayapp chemical chemicalfilterapplied chemicalsearch choice choices cleanupfilters clears client client-side clone cloneanitem cloned col column columns columnselection command completion compound compoundbatchv2ctrl condition consequently controller convenience correct correctly create creates current currently data datasets default defaults deselectallprojects direction display displayed displaying dosinglecompoundvalidation edit editmodeunreachable element empty encoded enter error event events examines exceeds existing fails false field fields file files filter filters filtersupdated flag flowfile fo forces form form_key format forms friendly function functionality gallery generate getresultspage handles handsontable hidden hide hit hits html identifier identity imagecallback images implemented indicates initialise initialises initiates injected intended item limit limits list listener listens load locate loggeed main method mode mol molecule move multiple myform newly newmol newpage newparams notifies notify number object objects openedsearchdropdown openedtaggingdropdown original pagechanged pagechanged2 pagenumber pagination paging parameter parameters params patch patched patchrecord perform performs populate populated position post posting pre-populated prevous prject proj project projects properly question queue re-applies re-patch re-render record records refelct refresh removal remove removeallhides removed removefile removeform removehide removes removesort removestructuresearch representing requests reset resetcompoundlist resets resetsearch result retrieval return returned reverting save savechangestocompounddataincontroller saved savesinglecompound saving schema scope scratch scrolls search searches searchparamschanged searchurlparamsv2 searchvia selectallprojects selected selection selections selector send sends sendtosearch serialize service set sets setup setuppagenumbers setupparams side signals simply size sizecheck skinconfig sort sourceofchange start string structure success supplied switch switches switching tables tagging temporary toggleadddata toggleaddingoff toggled toggleeditmode toggleprojectfiltered trigger turn undo undochanges unique unreachable update updatelistview updates upload uploaded upoaded url user validation version view views viewtype web widget works"
     },
     {
       "section": "api",
@@ -136,7 +136,7 @@ NG_DOCS={
       "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "DataOverviewCtrl",
-      "keywords": "api chembiohubassayapp controller dataoverviewctrl"
+      "keywords": "api chembiohubassayapp controller currently dataoverviewctrl"
     },
     {
       "section": "api",
@@ -145,7 +145,7 @@ NG_DOCS={
       "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "EditDataCtrl",
-      "keywords": "addition api app chembiohubassayapp control controller data editdatactrl editing equivalents functions viewing"
+      "keywords": "addition api app chembiohubassayapp control controller currently data editdatactrl editing equivalents functions viewing"
     },
     {
       "section": "api",
@@ -154,7 +154,7 @@ NG_DOCS={
       "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "PlatemapCtrl",
-      "keywords": "add api chembiohubassayapp control controller data define functionality intended link map overview parameters plate platemapctrl records required sequentially set system users"
+      "keywords": "$scope action add angular api appropriate associated batch cbh changesearchparams chembiohubassayapp clearform confirmation control controller create current data db defaults define defining definition directive directly editing false fetch flaag flag form function functionality functions global graphic held including individual instance intended interface items link list load loadplatemaps loadplatespecifiedinurl map mechanissm method moving newpage newparams notify object overrides overview pagechanged pagination parameters pass passed patch patched patching patchwholeplate plate platemap platemapctrl platemaps platesaved pristine project property records remove required reset save saved savewholeplate saving schema schemaformholder scope scratch search searching send sequentially set sets setting setupnewplatefromform sshowplate subset system thee transition true unhides url user users validates well_form well_schema wells"
     },
     {
       "section": "api",
@@ -163,7 +163,7 @@ NG_DOCS={
       "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "ProjectCtrl",
-      "keywords": "angular api appropriate chembiohubassayapp controller display essentially fetch holder list project projectctrl projects services user"
+      "keywords": "$scope angular api appropriate chembiohubassayapp controller display essentially fetch form getmessage help holder key list lookup lookup_str message messagefactory method plate pristine project projectctrl projects remove reset services user"
     },
     {
       "section": "api",
@@ -217,7 +217,7 @@ NG_DOCS={
       "type": "controller",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "Searchv2Ctrl",
-      "keywords": "$scope api application based batch breadcrumb broadcast building calls cancel capped capping carried changes chembiohubassayapp chemireg conducting construct controller correct creating current data dofreshsearch ensures enusers fetches fetching filter form functionality future generates handles hassearchbeenperformed indicating initialises mechanism method modal moment openmysavedsearchpopup opennewsavedsearchpopup opens parameters processes project removed reset responsible returns reusable save saved saved_search_project_type savedsearch savesearch saving search searched searches searchv2ctrl set snapshot storing true type ui-bootstrap update updated url user window"
+      "keywords": "$on $scope action api application based batch breadcrumb broadcast building callback calls cancel capped capping carried changes chembiohubassayapp chemical chemicalsearchready chemireg col column columnselection conducting construct controller correct creating current data dofreshsearch ensures enusers event fetches fetching filter filtering form function functionality future generated generates handles handsontable hassearchbeenperformed indicating initialises listens mechanism method modal moment object openmysavedsearchpopup opennewsavedsearchpopup opens parameters performed performing processes project removed reset responsible returns reusable save saved saved_search_project_type savedsearch savesearch saving search searched searches searchv2ctrl selecting set sets snapshot sorting stale storing trigger true type ui-bootstrap update updated url user window"
     },
     {
       "section": "api",
@@ -324,8 +324,8 @@ NG_DOCS={
       "shortName": "handsoncompoundtablev2",
       "type": "directive",
       "moduleName": "chembiohubAssayApp",
-      "shortDescription": "HandsOnCompoundTableV2",
-      "keywords": "allows api appropriate array batches cbh cells chembiohubassayapp column columns completed compounds configuration configure data directive edit event fields globals handsoncompoundtablev2 handsontable header help helper individual level list messages number object objects passed plugins redraw redrawn render rendered rows set setting table top type uncurated uncuratedheaders"
+      "shortDescription": "handsoncompoundtablev2",
+      "keywords": "aadds acted add addbuttonmenuevent adds aftergetcolheader allows angular api appended appropriate array batches behaviour bugs buildbutton buildinfospans button called cbh cell cells change chembiohubassayapp class col colour column columns completed compounds configuration configure constructs correct created css custom data directive docs dom drag-to-fill edit element elemnt event events example existing fields filter function functionality globals handler handsoncompoundtablev2 handsontable header help helper highlight hooks hotobj html http implementation implemented individual inserted javascript label launcher level library list listener local lots manipulation mapped mappingoptions messages method methods names native number object objects overridden override passed played plugins process property providde provided redraw redrawn render rendered rendering rows search selection set sets setting sorting starts success supplied support table top triggers type uncurated uncuratedheaders warnings"
     },
     {
       "section": "api",
