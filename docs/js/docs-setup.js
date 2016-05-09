@@ -23,39 +23,12 @@ NG_DOCS={
     },
     {
       "section": "api",
-      "id": "chembiohubAssayApp.addData",
-      "shortName": "chembiohubAssayApp.addData",
-      "type": "service",
-      "moduleName": "chembiohubAssayApp",
-      "shortDescription": "addData",
-      "keywords": "adddata api chembiohubassayapp factory service"
-    },
-    {
-      "section": "api",
       "id": "chembiohubAssayApp.CBHCompoundBatch",
       "shortName": "chembiohubAssayApp.CBHCompoundBatch",
       "type": "service",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "CBHCompoundBatch",
       "keywords": "adding allowed amount api apis applied appropriate archive archiving batch batches belong blank call calls cbh_compound_batches cbhcompoundbatch chembiohubassayapp chemical config confirming convenience createmultibatch ctab currentdataset currently daata data dataset default defaults delete delete_index diverts drawn editing elasticsearch element endpoint existing fetch fetchheaders file filter filtering filters format function getaddcompoundsresults getsinglemol input interface item items limit list lists markasarchived matching mb_id method modified moleculaar molecule multiple number object offest offset paginate paging parameters parammeters performing post_data preview project projectkey promise provide query queryv2 records reindex reindexing reindexmodifiedcompound remove removes request retrieve return save saved savemultibatchmolecules savesinglecompound saving search service set sketch smilesdata sorting sorts specifies system trigger types uploadbatch validate validatebatch validated validatefiles validatelist validation values varying web webservice"
-    },
-    {
-      "section": "api",
-      "id": "chembiohubAssayApp.chemFileValidation",
-      "shortName": "chembiohubAssayApp.chemFileValidation",
-      "type": "service",
-      "moduleName": "chembiohubAssayApp",
-      "shortDescription": "chemFileValidation",
-      "keywords": "api chembiohubassayapp chemfilevalidation factory service"
-    },
-    {
-      "section": "api",
-      "id": "chembiohubAssayApp.chemicalSearch",
-      "shortName": "chembiohubAssayApp.chemicalSearch",
-      "type": "service",
-      "moduleName": "chembiohubAssayApp",
-      "shortDescription": "chemicalSearch",
-      "keywords": "api chembiohubassayapp chemicalsearch factory service"
     },
     {
       "section": "api",
@@ -244,7 +217,7 @@ NG_DOCS={
       "type": "service",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "customFieldConfig",
-      "keywords": "api chembiohubassayapp customfieldconfig factory service"
+      "keywords": "api chembiohubassayapp customfieldconfig empty file service"
     },
     {
       "section": "api",
@@ -325,7 +298,7 @@ NG_DOCS={
       "type": "directive",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "handsoncompoundtablev2",
-      "keywords": "aadds acted add addbuttonmenuevent adds aftergetcolheader allows angular api appended appropriate array batches behaviour bugs buildbutton buildinfospans button called cbh cell cells change chembiohubassayapp class col colour column columns completed compounds configuration configure constructs correct created css custom data directive docs dom drag-to-fill edit element elemnt event events example existing fields filter function functionality globals handler handsoncompoundtablev2 handsontable header help helper highlight hooks hotobj html http implementation implemented individual inserted javascript label launcher level library list listener local lots manipulation mapped mappingoptions messages method methods names native number object objects overridden override passed played plugins process property providde provided redraw redrawn render rendered rendering rows search selection set sets setting sorting starts success supplied support table top triggers type uncurated uncuratedheaders warnings"
+      "keywords": "aadds acted add addbuttonmenuevent adds afterchange aftergetcolheader allows altered altering angular api appended appropriate archive array bacck batches beforeautofill behaviour bugs buildbutton buildinfospans button buttons called cbh cell cells change checking chembiohubassayapp class col colour column columns completed compounds configuration configure constructs correct created css custom data describing directive docs dom drag drag-to-fill edit element elemnt event events example existing extra fields filter function functionality globals handler handsoncompoundtablev2 handsontable header help helper highlight hook hooks hotobj html http implementation implemented individual info inserted insertion javascript label launcher level library list listener listeners local logic lots manipulation mapped mappingoptions messages method methods mode modified names native number object objects overridden override passed perform played plugins preprocessing process property providde provided redraw redrawn render rendered rendering representation rows search selection send set sets setting sorting sourceofchange spans start starts success supplied support table top triggers type unarchive uncurated uncuratedheaders versa vice warnings"
     },
     {
       "section": "api",
@@ -334,7 +307,7 @@ NG_DOCS={
       "type": "directive",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "platemap",
-      "keywords": "allow angular api boolean border callback called cbh changes chembiohubassayapp colour config configuration currently data dimensions directive form forms function functions globals green help individual level list map object parent pass-through passthrough phole plate plateform platemap platesaved populated red render rendered required save saved saveplatefunction saves schema schemaformholder scope selected separate top update user"
+      "keywords": "$on $scope add adding adds algorithm allow angular api appropriate autocomplete beccomes boolean border broadcast build builds call callback called cbh changes check chembiohubassayapp clearwell colour config configuration cuase currently daata data dimensions directive dosaveplate dropdown elements find fit form forms function functionality functions globals green grid help html individual initialiseplate iswellselected level list map method model object openedsearchdropdown parent pass-through passthrough patch phole plate plateform platemap plates platesaved populate populated pristine pulls ratios re-render ready red redraw remove render rendered required reset save saved saveplatefunction saves savewell schema schemaformholder scope selected sends separate showwellform todo top trigger update user wellformfe wellhasdata wells"
     },
     {
       "section": "api",
@@ -371,15 +344,6 @@ NG_DOCS={
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "SearchFilter",
       "keywords": "api cbh chembiohubassayapp configuration directive filtering globals help level object options panel render search searchfilter showing top"
-    },
-    {
-      "section": "api",
-      "id": "chembiohubAssayApp.DraftFactory",
-      "shortName": "chembiohubAssayApp.DraftFactory",
-      "type": "service",
-      "moduleName": "chembiohubAssayApp",
-      "shortDescription": "DraftFactory",
-      "keywords": "api chembiohubassayapp draftfactory factory service"
     },
     {
       "section": "api",
@@ -442,7 +406,7 @@ NG_DOCS={
       "type": "service",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "FlowFileFactory",
-      "keywords": "api chembiohubassayapp factory flowfilefactory service"
+      "keywords": "$resource access accessing alias aliases angular api app assayreg attachment attachments batch calls cbhattachments cbhbaseattachment cbhchemflowfile cbhflowfile cbhsaveattachment chembiohubassayapp code config constructing convenient currently data deprecated endpoints example factory file file-related files flowfile flowfilefactory identifier implementation individual keyed left library object objects option optional parameter parameterised property pull records resource service single unique upload urlconfig urls web webservice"
     },
     {
       "section": "api",
@@ -451,7 +415,16 @@ NG_DOCS={
       "type": "service",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "HTTPProject",
-      "keywords": "api chembiohubassayapp factory http httpproject service"
+      "keywords": "api chembiohubassayapp currently http httpproject service"
+    },
+    {
+      "section": "api",
+      "id": "chembiohubAssayApp.InvitationFactory",
+      "shortName": "chembiohubAssayApp.InvitationFactory",
+      "type": "service",
+      "moduleName": "chembiohubAssayApp",
+      "shortDescription": "FlowFileFactory",
+      "keywords": "$resource access aliases angular api app calls chembiohubassayapp config constructing convenient currently endpoints factory flowfilefactory invitation invitationfactory invite keyed library object objects parameterised property service urlconfig urls web webservice"
     },
     {
       "section": "api",
@@ -460,7 +433,7 @@ NG_DOCS={
       "type": "service",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "LoginService",
-      "keywords": "api chembiohubassayapp factory loginservice service"
+      "keywords": "api app chembiohubassayapp config currently imported js loginservice service unused"
     },
     {
       "section": "api",
@@ -469,7 +442,7 @@ NG_DOCS={
       "type": "service",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "MessageFactory",
-      "keywords": "api chembiohubassayapp factory messagefactory service"
+      "keywords": "access action angular-info-box api appropriate avoid chembiohubassayapp class directly documenation empty explanations factory front getlegends getmessage getmessages getstatuses getuploadactions holds images inside internal json key legends library lookup_str message messagefactory messages method methods null object pairs pass pointers property providing referenced retrieved return reused sections service simple statuses stored string strings system unable unique upload upload_actions usage"
     },
     {
       "section": "api",
@@ -478,16 +451,16 @@ NG_DOCS={
       "type": "service",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "PlateMapFactory",
-      "keywords": "api chembiohubassayapp factory platemapfactory service"
+      "keywords": "$resource access accessing alias aliases alos angular api app batch calls chembiohubassayapp config constructing convenient created custom elasticsearch endpoints factory keyed library limit list list_es lists map object objects optional parameter parameterised patch plate platemap platemapfactory platemaps property record records reindex reindexing representing resource retrieveing service single stored unique urlconfig urls user web webservice"
     },
     {
       "section": "api",
-      "id": "chembiohubAssayApp.projectfactory",
-      "shortName": "chembiohubAssayApp.projectfactory",
+      "id": "chembiohubAssayApp.ProjectFactory",
+      "shortName": "chembiohubAssayApp.ProjectFactory",
       "type": "service",
       "moduleName": "chembiohubAssayApp",
-      "shortDescription": "projectfactory",
-      "keywords": "api chembiohubassayapp factory projectfactory service"
+      "shortDescription": "ProjectFactory",
+      "keywords": "$resource access alias aliases angular api app calls chembiohubassayapp config constructing convenient custom endpoint endpoints factory library list object parameterised patch project projectfactory providing service urlconfig urls web webservice"
     },
     {
       "section": "api",
@@ -550,16 +523,52 @@ NG_DOCS={
       "type": "service",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "SearchUrlParamsV2",
-      "keywords": "api chembiohubassayapp provider searchurlparamsv2 service"
+      "keywords": "api appropriate based broadcast building cbh chembiohubassayapp chemical compatible concatenated controller create creates current download elasticsearch encoded encodeuricomponent events explanation factory fires form format formatted fully function generate_capped_saved_search generate_chemical_params generate_filter_params generate_form generate_hide_params generate_sort_params get_project_params get_textsearch_params global initialisation installation json key limits method model ngparamserializer number object pairs parameters params parts point pperfomrs property providing query redraws relating representing resolved returns search searchurlparamsv2 serializer service setbasedownloadurl starting stateparams string supplied top-level turn uri url"
     },
     {
       "section": "api",
-      "id": "chembiohubAssayApp.skinning",
-      "shortName": "chembiohubAssayApp.skinning",
+      "id": "chembiohubAssayApp.service:ChEMBLFactory",
+      "shortName": "ChEMBLFactory",
       "type": "service",
       "moduleName": "chembiohubAssayApp",
-      "shortDescription": "skinning",
-      "keywords": "api chembiohubassayapp factory service skinning"
+      "shortDescription": "ChEMBLFactory",
+      "keywords": "api border changes chembiohubassayapp chemblfactory colour currently data green red selected service"
+    },
+    {
+      "section": "api",
+      "id": "chembiohubAssayApp.service:chemFileValidation",
+      "shortName": "chemFileValidation",
+      "type": "service",
+      "moduleName": "chembiohubAssayApp",
+      "shortDescription": "chemFileValidation",
+      "keywords": "api chembiohubassayapp chemfilevalidation currently service"
+    },
+    {
+      "section": "api",
+      "id": "chembiohubAssayApp.service:chemicalSearch",
+      "shortName": "chemicalSearch",
+      "type": "service",
+      "moduleName": "chembiohubAssayApp",
+      "shortDescription": "chemicalSearch",
+      "keywords": "$resource aliases angular api app calls cbh_chemical_search chembiohubassayapp chemicalsearch class config constructing convenience endpoints factory library object service urlconfig urls web webservice"
+    },
+    {
+      "section": "api",
+      "id": "chembiohubAssayApp.service:DraftFactory",
+      "shortName": "DraftFactory",
+      "type": "service",
+      "moduleName": "chembiohubAssayApp",
+      "shortDescription": "DraftFactory",
+      "keywords": "api chembiohubassayapp currently draft draftfactory edit fields history intended provide rudimentary service textarea"
+    },
+    {
+      "section": "api",
+      "id": "chembiohubAssayApp.SkinningFactory",
+      "shortName": "chembiohubAssayApp.SkinningFactory",
+      "type": "service",
+      "moduleName": "chembiohubAssayApp",
+      "shortDescription": "SkinningFactory",
+      "keywords": "$resource access angular api calls chembiohubassayapp constructing convenient endpoint endpoints factory library parameterised providing service skinning skinningfactory urls webservice"
     },
     {
       "section": "api",
@@ -568,7 +577,7 @@ NG_DOCS={
       "type": "service",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "UserFactory",
-      "keywords": "api chembiohubassayapp factory service userfactory"
+      "keywords": "$resource access account aliases angular api app calls chembiohubassayapp config constructing convenient endpoint endpoints factory library list object parameterised project providing service urlconfig urls user userfactory web webservice"
     },
     {
       "section": "api",
@@ -577,7 +586,7 @@ NG_DOCS={
       "type": "service",
       "moduleName": "chembiohubAssayApp",
       "shortDescription": "ViewDataFactory",
-      "keywords": "api chembiohubassayapp factory service viewdatafactory"
+      "keywords": "api assayreg chembiohubassayapp currently implementation service viewdatafactory"
     }
   ],
   "apis": {
