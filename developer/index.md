@@ -9,9 +9,13 @@ These pages contain information on how to develop
 development tools, test tools, how to develop components, how to
 write tests, coding standards, and release process.
 
+---
+
+## Docs
+
 The main developer documentation is hosted on GitHub.
 
-##[Click Here for Developer Documentation](https://github.com/thesgc/chembiohub_ws/wiki)
+<a href="https://github.com/thesgc/chembiohub_ws/wiki">**Click Here for Developer Documentation**</a>
 
 * <a href="#what">What is ShowYourWorking</a>
 * <a href="#why">What problem does ShowYourWorking solve?</a>
