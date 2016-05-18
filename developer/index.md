@@ -9,29 +9,57 @@ These pages contain information on how to develop
 development tools, test tools, how to develop components, how to
 write tests, coding standards, and release process.
 
-* [Technical Documentation Wiki](https://github.com/thesgc/chembiohub_ws/wiki)
-* [Angular API](../docs/) (beta - under development)
-* [Repositories on GitHub](http://github.com/showyourworking)
+---
 
-## ShowYourWorking code
+## Docs
 
-Our repositories are located [on GitHub](http://github.com/showyourworking).
+The main developer documentation is hosted on GitHub.
 
-{{ site.software_name }} is built on Django, the Python CMS. You can find out more information on Django here. {{ site.software_name }} currently uses version 1.7 of Django, with Python version 2.7.
+<a href="https://github.com/thesgc/chembiohub_ws/wiki">**Click Here for Developer Documentation**</a>
 
-{{ site.software_name }} currently uses Angular v1.3 for the user interface. An API of all the code used within the app is viewable [here](../docs/)
+* <a href="#what">What is ShowYourWorking</a>
+* <a href="#why">What problem does ShowYourWorking solve?</a>
+* <a href="#how">How can I get ShowYourWorking?</a>
+* <a href="#howuse">How do I run and use ShowYourWorking?</a>
+* <a href="#trouble">My installation is not working, what should I do?</a>
+* <a href="#dev">I would like to develop a new feature for ShowYourWorking</a>
 
-Django is used primarily to provide a web service architecture for the applications and the user and login functionality. Django was primariliy selected for this purpose because of its open source nature, written in the Python programming language for interaction with chemically-aware software such as RDKit via ChEMBL's web service architecture and also with existing python tools for integrating with the University of Oxford's WebAuth single sign on system.
 
-{{ site.software_name }} installation scripts preconfigure a number of backend services including Redis, PostgreSQL, Elasticsearch etc. More details can be found on the [Running the python server and database in production] page
+###<a name="what">What is ShowYourWorking</a>
 
-By default, login is handled by the django login system.
+ShowYourWorking develops in-house applications and provides links to a variety of useful tools which can help chemical biologists, related scientists and support staff.
 
-We also include and example custom deployment of {{ site.software_name }} where the login credentials are checked in python against a different internal database.
+The ShowYourWorking platform is designed to accommodate a wide range of data - from chemical data (ChemiReg) to more generic collection and inventory data (InventoryReg) or any other simple tabular data format.
 
-As the system is built with Django, theoretically any of the login mechanisms supported by django could be integrated. Please raise a ticket if you have interest in this. We have integrated the login parts of our application with University of Oxford's WebAuth system but this is not included in the default install listed here.
+###<a name="why">What problem does ShowYourWorking solve?</a>
 
-Detailed technical documentation is available within the wikis for these repositories. You can access an overview of these [here](https://github.com/thesgc/chembiohub_ws/wiki)
+ShowYourWorking helps researchers search and manage their data including experimental data but also other data from the processes going on in labs such as keeping track of what is in stock.
+
+###<a name="how">How can I get ShowYourWorking?</a>
+
+ShowYourWorking is open-source software. If using the Chemical features it is under a GPL v3 license.
+
+See [[Installation]] documentation here
+
+###<a name="howuse">How do I run and use ShowYourWorking?</a>
+
+To configure your installation see [[Getting started once installed]].
+
+For information on how to back-up and similar tasks, see the [[Systems Administration]] page
+
+End user documentation is located on our [project site](http://showyourworking.github.io/user/index.html
+).
+
+
+###<a name="trouble">My installation is not working, what should I do?</a>
+
+We have gathered some common errors in our [[Troubleshooting]] page. If you still have a problem, feel free to raise a [github issue](https://github.com/thesgc/chembiohub_ws/issues) and we will try to get back to you.
+
+###<a name="dev">I would like to develop a new feature for ShowYourWorking</a>
+
+ShowYourWorking was developed to be extendible both in the front end and back end using a combination of AngularJS and Python Django.
+
+The way the features work and how to set up a development environment is described in the [[Technical guide and how to extend]] page. If you have a problem using these docs, feel free to raise a [github issue](https://github.com/thesgc/chembiohub_ws/issues) and we will try to get back to you.
 
 There are a good deal of quality, well supported, open-source projects used within ShowYourWorking, as you can see from the [Technologies list](#technologies) on this page. 
 
@@ -59,7 +87,7 @@ Detailed technical documentation is available within the wikis for these reposit
 
 <section class="tech-stack" id="tech-stack">
 
-{% for section in site.techstack %}
+<!-- {% for section in site.techstack %}
 
 <h3>{{section.title}}</h3>
 
@@ -74,7 +102,7 @@ Detailed technical documentation is available within the wikis for these reposit
 
 {% endfor %}
 
-{% endfor %}
+{% endfor %} -->
 
 </section>
 

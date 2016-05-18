@@ -35,7 +35,7 @@ menubar:
 - title: Get in Touch
   url: /project/HelpAndSupport.html
 - title: Copyright and Licence
-  url: /CopyrightLicence.html
+  url: https://github.com/thesgc/chembiohub_ws/blob/master/LICENSE
 - title: Site Map
   url: /SiteMap.html
 
