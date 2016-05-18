@@ -17,45 +17,13 @@ The main developer documentation is hosted on GitHub.
 
 <a href="https://github.com/thesgc/chembiohub_ws/wiki">**Click Here for Developer Documentation**</a>
 
-* <a href="#what">What is ShowYourWorking</a>
-* <a href="#why">What problem does ShowYourWorking solve?</a>
-* <a href="#how">How can I get ShowYourWorking?</a>
-* <a href="#howuse">How do I run and use ShowYourWorking?</a>
-* <a href="#trouble">My installation is not working, what should I do?</a>
-* <a href="#dev">I would like to develop a new feature for ShowYourWorking</a>
+* What is ShowYourWorking
+* What problem does ShowYourWorking solve?
+* How can I get ShowYourWorking?
+* How do I run and use ShowYourWorking?
+* My installation is not working, what should I do?
+* I would like to develop a new feature for ShowYourWorking
 
-
-###<a name="what">What is ShowYourWorking</a>
-
-ShowYourWorking develops in-house applications and provides links to a variety of useful tools which can help chemical biologists, related scientists and support staff.
-
-The ShowYourWorking platform is designed to accommodate a wide range of data - from chemical data (ChemiReg) to more generic collection and inventory data (InventoryReg) or any other simple tabular data format.
-
-###<a name="why">What problem does ShowYourWorking solve?</a>
-
-ShowYourWorking helps researchers search and manage their data including experimental data but also other data from the processes going on in labs such as keeping track of what is in stock.
-
-###<a name="how">How can I get ShowYourWorking?</a>
-
-ShowYourWorking is open-source software. If using the Chemical features it is under a GPL v3 license.
-
-See [[Installation]] documentation here
-
-###<a name="howuse">How do I run and use ShowYourWorking?</a>
-
-To configure your installation see [[Getting started once installed]].
-
-For information on how to back-up and similar tasks, see the [[Systems Administration]] page
-
-End user documentation is located on our [project site](http://showyourworking.github.io/user/index.html
-).
-
-
-###<a name="trouble">My installation is not working, what should I do?</a>
-
-We have gathered some common errors in our [[Troubleshooting]] page. If you still have a problem, feel free to raise a [github issue](https://github.com/thesgc/chembiohub_ws/issues) and we will try to get back to you.
-
-###<a name="dev">I would like to develop a new feature for ShowYourWorking</a>
 
 ShowYourWorking was developed to be extendible both in the front end and back end using a combination of AngularJS and Python Django.
 
