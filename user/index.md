@@ -2,6 +2,7 @@
 layout: page
 root: ..
 title: Use
+published: true
 ---
 
 These pages contain information on how to 
@@ -9,7 +10,7 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
 ## Using ShowYourWorking
 
-((TODO separate out generic-use user steps from chemireg-sprecific usage steps))
+((TODO separate out generic-use user steps from chemireg-specific usage steps))
 
 ((TODO current user help docs are now out of date - much search functionality has changed. Needs rewriting in a generic way for ShowYourWorking. Altered functionality and screenshots to be accounted for ))
 
@@ -31,14 +32,14 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
             <div class="col-xs-12">
                 <div class="well text-center">
                     <em>Jump to</em>: 
-                    <a ng-click="scrollTo('setup')"><strong class="nexa">Set up a new project</strong></a> | 
-                    <a ng-click="scrollTo('adding-users')"><strong class="nexa">Add users</strong></a> | 
-                    <a ng-click="scrollTo('adding-data')"><strong class="nexa">Put your data into a project</strong></a> | 
-                    <a ng-click="scrollTo('attachments')"><strong class="nexa">Attach extra files</strong></a> | <br>
-                    <a ng-click="scrollTo('search')"><strong class="nexa">Search your data</strong></a> | 
-                    <a ng-click="scrollTo('chem-search')"><strong class="nexa">Chemical searching</strong></a> | 
-                    <a ng-click="scrollTo('edit-data')"><strong class="nexa">Edit your data</strong></a> | 
-                    <a ng-click="scrollTo('export-data')"><strong class="nexa">Export your data</strong></a> | 
+                    <a href="#setup"><strong class="nexa">Set up a new project</strong></a> | 
+                    <a href="#adding-users"><strong class="nexa">Add users</strong></a> | 
+                    <a href="#adding-data"><strong class="nexa">Put your data into a project</strong></a> | 
+                    <a href="#attachments"><strong class="nexa">Attach extra files</strong></a> | <br>
+                    <a href="#search"><strong class="nexa">Search your data</strong></a> | 
+                    <a href="#chem-search"><strong class="nexa">Chemical searching</strong></a> | 
+                    <a href="#edit-data"><strong class="nexa">Edit your data</strong></a> | 
+                    <a href="#export-data"><strong class="nexa">Export your data</strong></a> | 
                 </div>
                 
                 
@@ -330,6 +331,3 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
 </div> -->
 <div class="spacer"></div>
-
-
-
