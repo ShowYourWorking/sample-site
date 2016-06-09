@@ -61,10 +61,10 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
                 <p>The page will reload and you'll see your new project at the top of the list.</p>
 
                 <p class="text-right"><a ng-click="scrollTo('top')">back to top</a></p>
+                
+                <a name="adding-users"><h2 class="blue" id="adding-users">Add users</h2></a>
 
-                <h2 class="blue" id="adding-users">Add users</h2>
-
-                <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/project-summary.png"></p>
+                               <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/project-summary.png"></p>
 
 
                 <p>Now you have your project set up how you want it, you are the project owner and can do things like add more fields, and change whether fields are mandatory. Another important thing you can do is to add users to your project. You can do this by clicking on the <strong class="blue nexa">Edit User Roles</strong> link on your project.</p>
@@ -77,8 +77,7 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
                 <p class="text-right"><a ng-click="scrollTo('top')">back to top</a></p>
 
-                <h2 class="blue" id="adding-data">Put your data into a project</h2>
-
+                <a name="adding-data"><h2 class="blue" id="adding-data">Put your data into a project</h2></a>
                 <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/project-summary.png"></p>
 
 
@@ -94,7 +93,8 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
                 <p class="text-right"><a ng-click="scrollTo('top')">back to top</a></p>
 
-                <h2 class="blue" id="search">Search your data</h2>
+                <a name="search"><h2 class="blue" id="search">Search your data</h2></a>
+                
                 <p>Once you've added some data, you'll probably want to refer back to it at some point in the future! ChemBio Hub has a powerful search architecture. You can do simple text searches - start typing in the Search ChemBio Hub platform box.</p>
 
                 <p>You can do more complex searches and filter by individual field. Click the button in the column header and chose the type of filter you want for that column. All column filters and sorts are shown in the boxes above the results table. Yo can remove a search filter by clicking the close x in the top right corner of each.</p>
@@ -127,16 +127,18 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
                 <p class="text-right"><a ng-click="scrollTo('top')">back to top</a></p>
 
-                <h2 class="blue" id="attachments">Attach extra files</h2>
+                <a name="attachments"><h2 class="blue" id="attachments">Attach extra files</h2></a>
+             
                 <p>One of the field types for the project fields that you set up at the start was File Upload. This means that you can attach extra files (like pictures, powerpoint files, PDFs and more) to a data record. Make sure one of your project fields is a File Upload field, go to the record you want to attach a file to and click Edit.</p>
 
                 <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/add-attachments.png"></p>
 
-                <p>Click the grey <strong class="blue nexa">+</strong> icon to chhose a file to add. It will be uploaded automatically. To remove a file, click the x in the top right corner of the thumbnail. When you're done, click <strong class="blue nexa">Update Project data</strong> to save your record.</p>
+                <p>Click the grey <strong class="blue nexa">+</strong> icon to choose a file to add. It will be uploaded automatically. To remove a file, click the x in the top right corner of the thumbnail. When you're done, click <strong class="blue nexa">Update Project data</strong> to save your record.</p>
 
                 <p class="text-right"><a ng-click="scrollTo('top')">back to top</a></p>
 
-                <h2 class="blue" id="export-data">Export your data</h2>
+                <a name="export-data"><h2 class="blue" id="export-datas">Export your data</h2></a>
+               
                 <p>If you want to export your data in an excel file, you can do so on the search page. Pick your search parameters and when you're ready, choose <strong class="blue nexa">Export all to Excel</strong> from the Export menu. If you have any Chemistry projects, you can also <strong class="blue nexa">Export all to SDF</strong>.</p>
 
 
