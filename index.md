@@ -41,7 +41,7 @@ Because {{ site.software_name }} is Open Source and available on GitHub, you can
 ## Acknowledgements
 
 {{ site.software_name }} was funded by the Wellcome Trust's ISSF fund, the John Fell Foundation, HEFCE and the Nuffield Department of Medicine. 
-![]({{site.baseurl}}//funders.GIF)
+![]({{site.baseurl}}/funders.GIF)
 
 
 We also
