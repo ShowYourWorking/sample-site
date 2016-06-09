@@ -47,7 +47,7 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
                 <p><strong class="nexa blue">If you encounter a problem with AssayReg, and this help document does not provide the answer please use the AssayReg menu box to submit an issue - click the AssayReg logo and select <em>Report an Issue</em> Alternatively please email ChemBio Hub - <a href="mailto:info@chembiohub.ox.ac.uk" role="button" class="btn btn-default"><span class="glyphicon glyphicon-envelope"></span> info@chembiohub.ox.ac.uk</a></strong></p>
 
 
-                <h2 class="blue" id="setup">Set up a new project</h2>
+<a name="setup"><h2 class="blue" id="setup">Set up a new project</h2></a>
                 <p>When you first log in to ChemBio Hub, you are shown a list of projects. If you're using the system for the first time, this may be an empty list, so you'll have to add a project. To do this, click the <strong class="blue nexa">Add Project</strong> button. You'll be shown a popup window where you can specify a title for your project, they type of project it is, whether you want it to start an incremental counter field and also project data fields.</p>
 
                 <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/add-project.png"></p>
