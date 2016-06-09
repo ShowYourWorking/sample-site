@@ -11,4 +11,4 @@ This page shows how to download and run ShowYourWorking - getting the user to th
 
 You can have an installation of {{ site.software_name }} for your personal use up and running very quickly using the instructions on the Wiki.
 
-[Click Here For Detailed Installation Steps](https://github.com/thesgc/chembiohub_ws/wiki/Installation)
+[Install](https://github.com/thesgc/chembiohub_ws/wiki/Installation) ShowYourWorking
