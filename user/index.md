@@ -8,8 +8,6 @@ published: true
 These pages contain information on how to 
 use {{ site.software_name }} i.e. contain our current adapted end-user documentation.
 
-<a name="using"><h2 id="setup">Using ShowYourWorking xxx</h2></a>
-
 ## Using ShowYourWorking
 
 ((TODO separate out generic-use user steps from chemireg-specific usage steps))
