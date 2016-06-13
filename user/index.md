@@ -9,7 +9,7 @@ These pages contain information on how to
 use {{ site.software_name }} i.e. contain our current adapted end-user documentation.
 
 ## Using ShowYourWorking
-<h2 class="blue" id="problem">What to do if you have a problem</h2>
+<h2 class="blue" id="problemxx">What to do if you have a problem</h2>
 
 ((TODO separate out generic-use user steps from chemireg-specific usage steps))
 
