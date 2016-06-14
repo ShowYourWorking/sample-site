@@ -3,6 +3,7 @@ layout: home
 root: .
 title: ShowYourWorking
 home: true
+published: true
 ---
 
  **{{ site.software_name }} is a data management platform developed by the University of Oxford in 2015 and 2016**.
@@ -39,6 +40,8 @@ Because {{ site.software_name }} is Open Source and available on GitHub, you can
 
 ## Acknowledgements
 
-{{ site.software_name }} was funded by... and ... and we also
-acknowledge the contributions of our
+{{ site.software_name }} was funded by the Wellcome Trust's ISSF fund, the John Fell Foundation, HEFCE and the Nuffield Department of Medicine. 
+
+
+We also acknowledge the contributions of our
 [contributors](./project/Contributing.html#contributors).

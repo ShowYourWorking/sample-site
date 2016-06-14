@@ -2,6 +2,7 @@
 layout: page
 root: ..
 title: Use
+published: true
 ---
 
 These pages contain information on how to 
@@ -9,7 +10,7 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
 ## Using ShowYourWorking
 
-((TODO separate out generic-use user steps from chemireg-sprecific usage steps))
+((TODO separate out generic-use user steps from chemireg-specific usage steps))
 
 ((TODO current user help docs are now out of date - much search functionality has changed. Needs rewriting in a generic way for ShowYourWorking. Altered functionality and screenshots to be accounted for ))
 
@@ -31,14 +32,14 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
             <div class="col-xs-12">
                 <div class="well text-center">
                     <em>Jump to</em>: 
-                    <a ng-click="scrollTo('setup')"><strong class="nexa">Set up a new project</strong></a> | 
-                    <a ng-click="scrollTo('adding-users')"><strong class="nexa">Add users</strong></a> | 
-                    <a ng-click="scrollTo('adding-data')"><strong class="nexa">Put your data into a project</strong></a> | 
-                    <a ng-click="scrollTo('attachments')"><strong class="nexa">Attach extra files</strong></a> | <br>
-                    <a ng-click="scrollTo('search')"><strong class="nexa">Search your data</strong></a> | 
-                    <a ng-click="scrollTo('chem-search')"><strong class="nexa">Chemical searching</strong></a> | 
-                    <a ng-click="scrollTo('edit-data')"><strong class="nexa">Edit your data</strong></a> | 
-                    <a ng-click="scrollTo('export-data')"><strong class="nexa">Export your data</strong></a> | 
+                    <a href="#setup"><strong class="nexa">Set up a new project</strong></a> | 
+                    <a href="#adding-users"><strong class="nexa">Add users</strong></a> | 
+                    <a href="#adding-data"><strong class="nexa">Put your data into a project</strong></a> | 
+                    <a href="#attachments"><strong class="nexa">Attach extra files</strong></a> | <br>
+                    <a href="#search"><strong class="nexa">Search your data</strong></a> | 
+                    <a href="#chem-search"><strong class="nexa">Chemical searching</strong></a> | 
+                    <a href="#edit-data"><strong class="nexa">Edit your data</strong></a> | 
+                    <a href="#export-data"><strong class="nexa">Export your data</strong></a> | 
                 </div>
                 
                 
@@ -46,7 +47,7 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
                 <p><strong class="nexa blue">If you encounter a problem with AssayReg, and this help document does not provide the answer please use the AssayReg menu box to submit an issue - click the AssayReg logo and select <em>Report an Issue</em> Alternatively please email ChemBio Hub - <a href="mailto:info@chembiohub.ox.ac.uk" role="button" class="btn btn-default"><span class="glyphicon glyphicon-envelope"></span> info@chembiohub.ox.ac.uk</a></strong></p>
 
 
-                <h2 class="blue" id="setup">Set up a new project</h2>
+<a name="setup"><h2 class="blue" id="setup">Set up a new project</h2></a>
                 <p>When you first log in to ChemBio Hub, you are shown a list of projects. If you're using the system for the first time, this may be an empty list, so you'll have to add a project. To do this, click the <strong class="blue nexa">Add Project</strong> button. You'll be shown a popup window where you can specify a title for your project, they type of project it is, whether you want it to start an incremental counter field and also project data fields.</p>
 
                 <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/add-project.png"></p>
@@ -60,10 +61,10 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
                 <p>The page will reload and you'll see your new project at the top of the list.</p>
 
                 <p class="text-right"><a ng-click="scrollTo('top')">back to top</a></p>
+                
+                <a name="adding-users"><h2 class="blue" id="adding-users">Add users</h2></a>
 
-                <h2 class="blue" id="adding-users">Add users</h2>
-
-                <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/project-summary.png"></p>
+                               <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/project-summary.png"></p>
 
 
                 <p>Now you have your project set up how you want it, you are the project owner and can do things like add more fields, and change whether fields are mandatory. Another important thing you can do is to add users to your project. You can do this by clicking on the <strong class="blue nexa">Edit User Roles</strong> link on your project.</p>
@@ -76,8 +77,7 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
                 <p class="text-right"><a ng-click="scrollTo('top')">back to top</a></p>
 
-                <h2 class="blue" id="adding-data">Put your data into a project</h2>
-
+                <a name="adding-data"><h2 class="blue" id="adding-data">Put your data into a project</h2></a>
                 <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/project-summary.png"></p>
 
 
@@ -93,7 +93,8 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
                 <p class="text-right"><a ng-click="scrollTo('top')">back to top</a></p>
 
-                <h2 class="blue" id="search">Search your data</h2>
+                <a name="search"><h2 class="blue" id="search">Search your data</h2></a>
+                
                 <p>Once you've added some data, you'll probably want to refer back to it at some point in the future! ChemBio Hub has a powerful search architecture. You can do simple text searches - start typing in the Search ChemBio Hub platform box.</p>
 
                 <p>You can do more complex searches and filter by individual field. Click the button in the column header and chose the type of filter you want for that column. All column filters and sorts are shown in the boxes above the results table. Yo can remove a search filter by clicking the close x in the top right corner of each.</p>
@@ -126,16 +127,18 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
                 <p class="text-right"><a ng-click="scrollTo('top')">back to top</a></p>
 
-                <h2 class="blue" id="attachments">Attach extra files</h2>
+                <a name="attachments"><h2 class="blue" id="attachments">Attach extra files</h2></a>
+             
                 <p>One of the field types for the project fields that you set up at the start was File Upload. This means that you can attach extra files (like pictures, powerpoint files, PDFs and more) to a data record. Make sure one of your project fields is a File Upload field, go to the record you want to attach a file to and click Edit.</p>
 
                 <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/add-attachments.png"></p>
 
-                <p>Click the grey <strong class="blue nexa">+</strong> icon to chhose a file to add. It will be uploaded automatically. To remove a file, click the x in the top right corner of the thumbnail. When you're done, click <strong class="blue nexa">Update Project data</strong> to save your record.</p>
+                <p>Click the grey <strong class="blue nexa">+</strong> icon to choose a file to add. It will be uploaded automatically. To remove a file, click the x in the top right corner of the thumbnail. When you're done, click <strong class="blue nexa">Update Project data</strong> to save your record.</p>
 
                 <p class="text-right"><a ng-click="scrollTo('top')">back to top</a></p>
 
-                <h2 class="blue" id="export-data">Export your data</h2>
+                <a name="export-data"><h2 class="blue" id="export-datas">Export your data</h2></a>
+               
                 <p>If you want to export your data in an excel file, you can do so on the search page. Pick your search parameters and when you're ready, choose <strong class="blue nexa">Export all to Excel</strong> from the Export menu. If you have any Chemistry projects, you can also <strong class="blue nexa">Export all to SDF</strong>.</p>
 
 
@@ -330,6 +333,3 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
 </div> -->
 <div class="spacer"></div>
-
-
-

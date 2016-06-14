@@ -1034,11 +1034,26 @@ table {
     
   
   <div id="sidebar">
-    <h1>Index</h1>
+  <a href="https://github.com/thesgc/chembiohub_ws/wiki/Technical-guide#back-end-module-docs"><< back to Technical Guide Index</a>  <h1>Index</h1>
     <ul id="index">
 
 
 
+    <li class="set"><h3><a href="#header-submodules">Sub-modules</a></h3>
+      <ul>
+        <li class="mono"><a href="admin.m.html">cbh_chem_api.admin</a></li>
+        <li class="mono"><a href="chemdraw_reaction.m.html">cbh_chem_api.chemdraw_reaction</a></li>
+        <li class="mono"><a href="compounds.m.html">cbh_chem_api.compounds</a></li>
+        <li class="mono"><a href="elasticsearch_client.m.html">cbh_chem_api.elasticsearch_client</a></li>
+        <li class="mono"><a href="management/index.html">cbh_chem_api.management</a></li>
+        <li class="mono"><a href="migrations/index.html">cbh_chem_api.migrations</a></li>
+        <li class="mono"><a href="new_serializers.m.html">cbh_chem_api.new_serializers</a></li>
+        <li class="mono"><a href="resources.m.html">cbh_chem_api.resources</a></li>
+        <li class="mono"><a href="serializers.m.html">cbh_chem_api.serializers</a></li>
+        <li class="mono"><a href="tasks.m.html">cbh_chem_api.tasks</a></li>
+        <li class="mono"><a href="urls.m.html">cbh_chem_api.urls</a></li>
+      </ul>
+    </li>
     </ul>
   </div>
 
@@ -1066,6 +1081,88 @@ table {
 
 
 
+    <h2 class="section-title" id="header-submodules">Sub-modules</h2>
+      <div class="item">
+      <p class="name"><a href="admin.m.html">cbh_chem_api.admin</a></p>
+      
+  
+    <div class="desc"><p>Admin views for ChemBio Hub Platform
+This file is likely deprecated as there is no loinger a need for a separate project admin for Chemireg</p></div>
+
+      </div>
+      <div class="item">
+      <p class="name"><a href="chemdraw_reaction.m.html">cbh_chem_api.chemdraw_reaction</a></p>
+      
+  
+    <div class="desc"><p>Enables Parsing of the Reaction XML form a ChemDraw file, linking molecule records with those found in the data</p></div>
+
+      </div>
+      <div class="item">
+      <p class="name"><a href="compounds.m.html">cbh_chem_api.compounds</a></p>
+      
+  
+    <div class="desc"><p>nearly deprecated old inteface to the compounds API</p></div>
+
+      </div>
+      <div class="item">
+      <p class="name"><a href="elasticsearch_client.m.html">cbh_chem_api.elasticsearch_client</a></p>
+      
+  
+    <div class="desc"><p>deprecated soon - the original elasticsearch client for compound batches, now only used for the indexing of
+new data in a temporary index</p></div>
+
+      </div>
+      <div class="item">
+      <p class="name"><a href="management/index.html">cbh_chem_api.management</a></p>
+      
+  
+
+      </div>
+      <div class="item">
+      <p class="name"><a href="migrations/index.html">cbh_chem_api.migrations</a></p>
+      
+  
+
+      </div>
+      <div class="item">
+      <p class="name"><a href="new_serializers.m.html">cbh_chem_api.new_serializers</a></p>
+      
+  
+    <div class="desc"><p>This module provides extra serializers to convert data into SDF or XLSX from the new search api
+unfinished refactoring</p></div>
+
+      </div>
+      <div class="item">
+      <p class="name"><a href="resources.m.html">cbh_chem_api.resources</a></p>
+      
+  
+    <div class="desc"><p>This is the main module of the new ChemiReg API
+It provides the webservices to add, search for and index CBHCompoundBatch objects</p></div>
+
+      </div>
+      <div class="item">
+      <p class="name"><a href="serializers.m.html">cbh_chem_api.serializers</a></p>
+      
+  
+    <div class="desc"><p>Original serializer module for CBHCompoundbatchResource
+Currently in the process of being deprecated</p></div>
+
+      </div>
+      <div class="item">
+      <p class="name"><a href="tasks.m.html">cbh_chem_api.tasks</a></p>
+      
+  
+    <div class="desc"><p>Background task functions which are called from elsewhere using function signatures and async_iter
+Tasks are run using django_q</p></div>
+
+      </div>
+      <div class="item">
+      <p class="name"><a href="urls.m.html">cbh_chem_api.urls</a></p>
+      
+  
+    <div class="desc"><p>Main url conf for the ChemBio Hub Platform app which is imported by the deployment urls.py</p></div>
+
+      </div>
   </section>
 
     </article>
