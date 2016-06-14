@@ -45,6 +45,10 @@ Detailed technical documentation is available within the wikis for these reposit
 
 <img src="/assets/Chembiohub_ws.svg">
 
+## Showyourworking Data Model
+
+<img src="/assets/datamodel.png">
+
 ## ShowYourWorking testing
 
 {{site.software_name}} utilises Behavioural Driven Development as the basis of its testing architecture. This is a semantically defined testing language which allows the creation of scenarios (to help with user story testing) and also reusable testing steps to validate end-to-end processes.
