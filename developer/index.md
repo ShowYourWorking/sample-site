@@ -41,6 +41,10 @@ There are a good deal of quality, well supported, open-source projects used with
 
 Detailed technical documentation is available within the wikis for these repositories. You can access an overview of these [here](https://github.com/thesgc/chembiohub_ws/wiki)
 
+## ShowYourWorking architecture
+
+<img src="/assets/Chembiohub_ws.svg">
+
 ## ShowYourWorking testing
 
 {{site.software_name}} utilises Behavioural Driven Development as the basis of its testing architecture. This is a semantically defined testing language which allows the creation of scenarios (to help with user story testing) and also reusable testing steps to validate end-to-end processes.
