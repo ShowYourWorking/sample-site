@@ -77,7 +77,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                In the popup window, you can add users to your project with different roles:
                
                
-               <p><em>Owners</em> can edit everything about the project and add other users.</p>
+               <p><strong>Owners</strong> can edit everything about the project and add other users.</p>
                <p><em>Editors</em> can edit and view data which has been added but nothing else.</p> 
                <p><em>Viewers</em> can only see the data for that project. </p>
                
