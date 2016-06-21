@@ -2,7 +2,7 @@
 layout: page
 root: ..
 title: Use
-published: false
+published: true
 ---
 
 These pages contain information on how to 
