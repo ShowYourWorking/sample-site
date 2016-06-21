@@ -170,39 +170,38 @@ If you encounter a problem with ChemiReg, and this help document does not provid
         <h2 class="subheading"><small>File Submission - What ChemiReg can and can’t accept currently</small></h2>
     </div>
     
-  ChemiReg can accept Excel .xlsx files (newer Office versions)  
+    <strong>ChemiReg can accept Excel .xlsx files (newer Office versions)  </strong>
+    
     <ul>
-                    <li>ChemiReg can accept Excel .xlsx files (newer Office versions)</li>
                     <li>The file must contain column headers in the top row, with all data organised in the relevant columns underneath. Figures and images cannot currently be accepted.</li>
                     <li>The submitted Excel file may contain structural information.  In this case, use the dropdown menu to select the column heading which containing structural information (eg. SMILES). This will ensure a compound structure is drawn in the system following submission.</li>
                     <li> [Download](/files/faq/example-excel-file-with-structures.xlsx) an example of an Excel file that could be registered in the system containing structural information.</li>
                     <li>[Download](/files/faq/example-excel-file-without-structures.xls) an example of an Excel file that could be registered in the system containing NO structural information.</li>
                 </ul>
 
-    <div class="col-sm-5 col-sm-offset-2">
+    <!--> <div class="col-sm-5 col-sm-offset-2"
 
-        <div class="row">
+        <div class="row"
             
 
-            <div class="col-xs-12">
-            <p> ChemiReg can accept Excel .xlsx files (newer Office versions) </p>
-                <h2 class="blue"><span class="glyphicon glyphicon-ok-circle" style="color:#3c763d;"></span> ChemiReg can accept Excel .XLSX files (newer Office versions)</h2>
-            </div>
+            <div class="col-xs-12"
+            <p ChemiReg can accept Excel .xlsx files (newer Office versions) </p
+                <h2 class="blue"<span class="glyphicon glyphicon-ok-circle" style="color:#3c763d;"</span ChemiReg can accept Excel .XLSX files (newer Office versions)</h2
+            </div
 
-            <div class="col-xs-12">
-                <div class="well">
-                    <p class="nexa">The file must contain column headers in the top row, with all data organised in the relevant columns underneath. Figures and images cannot currently be accepted.</p>
+            <div class="col-xs-12"
+                <div class="well"
+                    <p class="nexa"The file must contain column headers in the top row, with all data organised in the relevant columns underneath. Figures and images cannot currently be accepted.</p
 
-                    <p class="nexa">The submitted Excel file may contain structural information.  In this case, use the dropdown menu to select the column heading which containing structural information (eg. SMILES). This will ensure a compound structure is drawn in the system following submission.</p>
+                    <p class="nexa"The submitted Excel file may contain structural information.  In this case, use the dropdown menu to select the column heading which containing structural information (eg. SMILES). This will ensure a compound structure is drawn in the system following submission.</p
 
-                    <p class="nexa">An Excel file may be submitted containing no structural information. In this case submit the file as the default “No structural information” using the available dropdown menu. This will assign each record with a unique ID as normal but with no structure information.</p>
+                    <p class="nexa"An Excel file may be submitted containing no structural information. In this case submit the file as the default “No structural information” using the available dropdown menu. This will assign each record with a unique ID as normal but with no structure information.</p
 
-                    <p class="nexa"><a role="button" class="btn btn-default" href="/files/faq/example-excel-file-with-structures.xlsx"><span class="glyphicon glyphicon-floppy-disk"></span> Download</a> an example of an Excel file that could be registered in the system containing structural information.</strong> </p>
+                    <p class="nexa"<a role="button" class="btn btn-default" href="/files/faq/example-excel-file-with-structures.xlsx"<span class="glyphicon glyphicon-floppy-disk"</span Download</a an example of an Excel file that could be registered in the system containing structural information.</strong </p
 
-                    <p class="nexa"> <a role="button" class="btn btn-default" href="/files/faq/example-excel-file-without-structures.xlsx"><span class="glyphicon glyphicon-floppy-disk"></span> Download</a> an example of an Excel file that could be registered in the system containing NO structural information.</strong></p>
-                </div>
-            </div>
-
+                    <p class="nexa" <a role="button" class="btn btn-default" href="/files/faq/example-excel-file-without-structures.xlsx"<span class="glyphicon glyphicon-floppy-disk"</span Download</a an example of an Excel file that could be registered in the system containing NO structural information.</strong</p
+                </div
+            </div
             <div class="col-xs-12">
                 <h2 class="blue"><span class="glyphicon glyphicon-ok-circle"  style="color:#3c763d;"></span> ChemiReg can accept .SDF files</h2>
             </div>
@@ -215,7 +214,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                 </div>
 
                 
-            </div>
+            </div> -->
 
             <div class="col-xs-12">
                 <h2 class="blue"><span class="glyphicon glyphicon-ok-circle" style="color:#3c763d;"></span> ChemiReg can accept ChemDraw data when saved in SDF format</h2>
