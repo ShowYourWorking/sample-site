@@ -161,11 +161,8 @@ If you encounter a problem with ChemiReg, and this help document does not provid
 
 <div class="row mt">
     <div class="col-sm-8 col-sm-offset-2">
-        <a><h2 class="blue" id="chemireg-section">ChemiReg Help section<br><small>How-tos, information and FAQs</small></h2>  </a> 
-               
-        
-    </div>
-
+        <a><h2 class="blue" id="chemireg-section">ChemiReg Help section: How-tos, information and FAQs</h2>  </a> 
+     </div>
 </div>
 
 <div class="row">
@@ -179,6 +176,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
             
 
             <div class="col-xs-12">
+            <p> ChemiReg can accept Excel .xlsx files (newer Office versions) </p>
                 <h2 class="blue"><span class="glyphicon glyphicon-ok-circle" style="color:#3c763d;"></span> ChemiReg can accept Excel .XLSX files (newer Office versions)</h2>
             </div>
 
