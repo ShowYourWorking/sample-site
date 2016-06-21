@@ -107,7 +107,8 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
                 <p class="text-right"><a href="#top"><strong class="nexa">back to top</strong></a></p>
 
-                <h2 class="blue" id="chem-search">Chemical searching</h2>
+				<a name="chem-search"><h2 class="blue" id="chem-search">Chemical searching</h2></a> 
+                
                 <p>If your system is set up to hold chemical data and you have at least one chemical project set up, you can search for compounds based on chemical similarity. To launch the chemical search form, click the button in the Structure column header. This will show a chemical sketcher and a choice of Substructure and Exact Match searches.</p>
 
                 <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/data-mapping.png"></p>
@@ -117,7 +118,8 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
                 <p class="text-right"><a href="#top"><strong class="nexa">back to top</strong></a></p>
 
 
-                <h2 class="blue" id="edit-data">Edit your data</h2>
+                <a name="edit-data"><h2 class="blue" id="edit-data">Edit your data</h2></a>
+                <h2 class="blue" 
                 <p></p>
                 If you need to modify or add extra fields to your data, you can do so in a couple of ways:
 
