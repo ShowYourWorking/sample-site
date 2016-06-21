@@ -172,8 +172,8 @@ If you encounter a problem with ChemiReg, and this help document does not provid
     
     
     <ul>
-                    <li><em>Edit one record</em> - open the details popup window for that record by clicking the system ID number and then clicking Edit.</li>
-                    <li><em>Bulk edit multiple records</em> - you can do drag-to-fill editing for multiple records. Make sure the data to be edited is all in the same project and that project is selected in the search form. You should now see an Edit button link above the table - click it and you can now edit data directly within the table. When you're done, the data will be automatically saved. To make more changes, click Edit again.</li>
+                    <li>ChemiReg can accept Excel .xlsx files (newer Office versions)</li>
+                    <li>The file must contain column headers in the top row, with all data organised in the relevant columns underneath. Figures and images cannot currently be accepted.</li>
                 </ul>
 
     <div class="col-sm-5 col-sm-offset-2">
