@@ -79,7 +79,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                
                <p><strong>Owners</strong> can edit everything about the project and add other users.
                <p><strong>Editors</strong> can edit and view data which has been added but nothing else. 
-               <p><strong>Viewers</strong> can only see the data for that project.
+               <p><strong>Viewers</strong> can only see the data for that project.</p>
                
                 <p>Type the name of the user you want to assign a role to and click their name in the list.
 
