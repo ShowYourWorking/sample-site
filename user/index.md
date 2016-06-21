@@ -161,7 +161,9 @@ If you encounter a problem with ChemiReg, and this help document does not provid
 
 <div class="row mt">
     <div class="col-sm-8 col-sm-offset-2">
-        <h2 class="blue" id="chemireg-section">ChemiReg Help section<br><small>How-tos, information and FAQs</small></h2>   
+        <a><h2 class="blue" id="chemireg-section">ChemiReg Help section<br><small>How-tos, information and FAQs</small></h2>  </a> 
+               
+        
     </div>
 
 </div>
