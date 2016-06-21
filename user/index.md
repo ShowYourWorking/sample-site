@@ -18,7 +18,7 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 <div class="row mt">
     <div class="col-sm-8 col-sm-offset-2"  style="padding-left:15px;">
         
-        <h2 class="blue">ChemBio Hub platform Help section<br><small>How-tos, information and FAQs</small></h2> 
+        <a name="top"><h2 class="blue">ChemBio Hub platform Help section<br><small>How-tos, information and FAQs</small></h2> </a>
             
     </div>
 
