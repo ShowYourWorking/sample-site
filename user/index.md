@@ -43,8 +43,10 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
                 </div>
                 
                 
-                <h2 class="blue" id="problem">What to do if you have a problem</h2>
-                <p><strong class="nexa blue">If you encounter a problem with AssayReg, and this help document does not provide the answer please use the AssayReg menu box to submit an issue - click the AssayReg logo and select <em>Report an Issue</em> Alternatively please email ChemBio Hub - <a href="mailto:info@chembiohub.ox.ac.uk" role="button" class="btn btn-default"><span class="glyphicon glyphicon-envelope"></span> info@chembiohub.ox.ac.uk</a></strong></p>
+                <p><h2 class="blue" id="problem">What to do if you have a problem</h2></p>
+                <p><strong class="nexa blue">If you encounter a problem with AssayReg, and this help document does not provide the answer please use the AssayReg menu box to submit an issue - click the AssayReg logo and select <em>Report an Issue</em> Alternatively please [Get in Touch] (.project/HelpAndSupport.html)</strong></p>
+
+
 
 
 <a name="setup"><h2 class="blue" id="setup">Set up a new project</h2></a>
@@ -119,7 +121,7 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
 
                 <a name="edit-data"><h2 class="blue" id="edit-data">Edit your data</h2></a>
-                <h2 class="blue" 
+                 
                 <p></p>
                 If you need to modify or add extra fields to your data, you can do so in a couple of ways:
 
