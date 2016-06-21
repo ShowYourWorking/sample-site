@@ -155,14 +155,6 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                 <p>If you want to export your data in an Excel file, you can do so on the search page. Pick your search parameters and when you're ready, choose <strong class="blue nexa">Export all to Excel</strong> from the Export menu. If you have any Chemistry projects, you can also <strong class="blue nexa">Export all to SDF</strong>.</p>
 
 
-
-            </div>
-        </div>
-
-    </div>
-
-</div>
-
 <div ng-include="'views/help-chemireg.html'"></div>
 
 <div class="spacer"></div>
