@@ -76,7 +76,10 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
                 <p>You can invite people to log into the system once you have added a project. Open the main menu button in the top right corner and click <strong class="blue nexa">Send an invitation.</strong></p>
 
-                <p class="text-right"><a ng-click="scrollTo('top')">back to top</a></p>
+             > We loved with a love that was more than love
+
+   <p class="text-right"><a ng-click="scrollTo('top')">back to top</a></p>
+                <a href="#top"><strong class="nexa">back to top</strong></a>
 
                 <a name="adding-data"><h2 class="blue" id="adding-data">Put your data into a project</h2></a>
                 <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/project-summary.png"></p>
