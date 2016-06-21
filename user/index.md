@@ -9,7 +9,6 @@ These pages contain information on how to
 use {{ site.software_name }} i.e. contain our current adapted end-user documentation.
 
 ## Using ShowYourWorking
-<a name="xxx"><h2 class="blue" id="xxx">Set up a new xxx</h2></a>
 
 ((TODO separate out generic-use user steps from chemireg-specific usage steps))
 
@@ -18,8 +17,8 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 <div class="row mt">
     <div class="col-sm-8 col-sm-offset-2"  style="padding-left:15px;">
         
-        <a name="top"><h2 class="blue">ChemBio Hub platform Help section<br><small>How-tos, information and FAQs</small></h2> </a>
-            
+        <a name="top"><h2 class="blue" id="top">ChemBio Hub platform Help section<br><small>How-tos, information and FAQs</small></h2> </a>
+                   
     </div>
 
 </div>
@@ -78,9 +77,9 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
              > We loved with a love that was more than love
 
-   <p class="text-right"><a ng-click="scrollTo('top')">back to top</a></p>
-                <a href="#top"><strong class="nexa">back to top</strong></a>
-
+ >  <p class="text-right"><a ng-click="scrollTo('top')">back to top</a></p>
+ 				<a href="#top"><strong class="nexa">back to top</strong></a>
+                    
                 <a name="adding-data"><h2 class="blue" id="adding-data">Put your data into a project</h2></a>
                 <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/project-summary.png"></p>
 
