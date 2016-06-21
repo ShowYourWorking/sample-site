@@ -17,8 +17,8 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 <div class="row mt">
     <div class="col-sm-8 col-sm-offset-2"  style="padding-left:15px;">
         
-        <a name="top"><h2 class="blue" id="top">ChemBio Hub platform Help section<br><small>How-tos, information and FAQs</small></h2> </a>
-                   
+        <a name="top" href="#chemireg-section"><h2 class="blue" id="top">ChemBio Hub platform Help section<br><small>How-tos, information and FAQs</small></h2> </a>
+                          
     </div>
 
 </div>
@@ -60,8 +60,8 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
                 <p>The page will reload and you'll see your new project at the top of the list.</p>
 
-                <a href="#top"><strong class="nexa">back to top</strong></a>             
-                
+                <a href="#top"><strong class="nexa">back to top</strong></a>
+                                
                 <a name="adding-users"><h2 class="blue" id="adding-users">Add users</h2></a>
 
                                <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/project-summary.png"></p>
