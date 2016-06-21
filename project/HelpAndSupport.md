@@ -1,10 +1,11 @@
 ---
-layout:	page
+layout: page
 root: ..
-title: Get in Touch, Help and Support (draft)
+title: 'Get in Touch, Help and Support (draft)'
+published: true
 ---
 
-((TODO This is boilerplate for the most part - page should reflect how to contact when ShowYourWOrking is a going concern)).
+((TODO This is boilerplate for the most part - page should reflect how to contact when ShowYourWorking is a going concern)).
 
 ## How to get in touch
 
