@@ -107,7 +107,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                 
                 <p>Once you've added some data, you'll probably want to refer back to it at some point in the future! ChemBio Hub has a powerful search architecture. You can do simple text searches - start typing in the Search ChemBio Hub platform box.</p>
 
-                <p>You can do more complex searches and filter by individual field. Click the button in the column header and chose the type of filter you want for that column. All column filters and sorts are shown in the boxes above the results table. Yo can remove a search filter by clicking the close x in the top right corner of each.</p>
+                <p>You can do more complex searches and filter by individual field. Click the button in the column header and chose the type of filter you want for that column. All column filters and sorts are shown in the boxes above the results table. You can remove a search filter by clicking the close x in the top right corner of each.</p>
 
                 <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/search-filter.png"></p>
 
@@ -142,7 +142,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
 
                 <a name="attachments"><h2 class="blue" id="attachments">Attach extra files</h2></a>
              
-                <p>One of the field types for the project fields that you set up at the start was File Upload. This means that you can attach extra files (like pictures, powerpoint files, PDFs and more) to a data record. Make sure one of your project fields is a File Upload field, go to the record you want to attach a file to and click Edit.</p>
+                <p>One of the field types for the project fields that you set up at the start was File Upload. This means that you can attach extra files (like pictures, PowerPoint files, PDFs and more) to a data record. Make sure one of your project fields is a File Upload field, go to the record you want to attach a file to and click Edit.</p>
 
                 <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/add-attachments.png"></p>
 
@@ -152,7 +152,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
 
                 <a name="export-data"><h2 class="blue" id="export-datas">Export your data</h2></a>
                
-                <p>If you want to export your data in an excel file, you can do so on the search page. Pick your search parameters and when you're ready, choose <strong class="blue nexa">Export all to Excel</strong> from the Export menu. If you have any Chemistry projects, you can also <strong class="blue nexa">Export all to SDF</strong>.</p>
+                <p>If you want to export your data in an Excel file, you can do so on the search page. Pick your search parameters and when you're ready, choose <strong class="blue nexa">Export all to Excel</strong> from the Export menu. If you have any Chemistry projects, you can also <strong class="blue nexa">Export all to SDF</strong>.</p>
 
 
 
