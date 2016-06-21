@@ -170,7 +170,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
 
 <div class="row">
     <div class="col-sm-8 col-sm-offset-2">
-        <h2 class="subheading">File Submission - What ChemiReg can and can’t accept currently</h2>
+        <h2 class="subheading"><small>File Submission - What ChemiReg can and can’t accept currently</small></h2>
     </div>
 
     <div class="col-sm-5 col-sm-offset-2">
