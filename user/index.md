@@ -81,7 +81,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                <p><strong>Editors</strong> can edit and view data which has been added but nothing else. 
                <p><strong>Viewers</strong> can only see the data for that project.
                
-                Type the name of the user you want to assign a role to and click their name in the list.
+                <p>Type the name of the user you want to assign a role to and click their name in the list.
 
                 <p>You can invite people to log into the system once you have added a project. Open the main menu button in the top right corner and click <strong class="blue nexa">Send an invitation.</strong></p>
 
