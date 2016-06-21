@@ -2,7 +2,7 @@
 layout: page
 root: ..
 title: Use
-published: false
+published: true
 ---
 
 These pages contain information on how to 
@@ -75,7 +75,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                 <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/user-roles.png"></p>
 
                 <p>In the popup window, you can add users to your project with different roles:
-                - Owners can edit everything about the project and add other users. 
+                -Owners can edit everything about the project and add other users. 
                 -Editors can edit and view data which has been added but nothing else. 
                 -Viewers can only see the data for that project. 
                 Type the name of the user you want to assign a role to and click their name in the list.</p>
