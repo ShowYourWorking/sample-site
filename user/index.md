@@ -44,7 +44,7 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
                 
                 
                 <p><h2 class="blue" id="problem">What to do if you have a problem</h2></p>
-                <p><strong class="nexa blue">If you encounter a problem with AssayReg, and this help document does not provide the answer please use the AssayReg menu box to submit an issue - click the AssayReg logo and select <em>Report an Issue</em> Alternatively please [Get in Touch] (.project/HelpAndSupport.html)</strong></p>
+                <p><strong class="nexa blue">If you encounter a problem with AssayReg, and this help document does not provide the answer please use the AssayReg menu box to submit an issue - click the AssayReg logo and select <em>Report an Issue</em> Alternatively please [Get in Touch](.project/HelpAndSupport.html) </strong></p>
 
 
 
