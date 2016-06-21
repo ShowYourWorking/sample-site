@@ -2,7 +2,7 @@
 layout: page
 root: ..
 title: Use
-published: true
+published: false
 ---
 
 These pages contain information on how to 
@@ -45,15 +45,13 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
                 
                 <p><h2 class="blue" id="problem">What to do if you have a problem</h2></p>
              
-If you encounter a problem with AssayReg, and this help document does not provide the answer please use the AssayReg menu box to submit an issue - click the AssayReg logo and select <em>Report an Issue</em>.  
-
-Alternatively please [Get in Touch](http://showyourworking.github.io/project/HelpAndSupport.html "Get in Touch") 
+If you encounter a problem with ChemiReg, and this help document does not provide the answer please use the menu box to submit an issue - click the ChemiReg logo and select <em>Report an Issue</em>.  Alternatively please [Get in Touch](http://showyourworking.github.io/project/HelpAndSupport.html) 
 
 
 
 
 <a name="setup"><h2 class="blue" id="setup">Set up a new project</h2></a>
-                <p>When you first log in to ChemBio Hub, you are shown a list of projects. If you're using the system for the first time, this may be an empty list, so you'll have to add a project. To do this, click the <strong class="blue nexa">Add Project</strong> button. You'll be shown a popup window where you can specify a title for your project, they type of project it is, whether you want it to start an incremental counter field and also project data fields.</p>
+                <p>When you first log in to ChemBio Hub, you are shown a list of projects. If you're using the system for the first time, this may be an empty list, so you'll have to add a project. To do this, click the <strong class="blue nexa">Add Project</strong> button. You'll be shown a popup window where you can specify a title for your project, the type of project it is, whether you want it to start an incremental counter field and also project data fields.</p>
 
                 <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/add-project.png"></p>
 
