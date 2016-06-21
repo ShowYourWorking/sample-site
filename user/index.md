@@ -60,7 +60,7 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
                 <p>The page will reload and you'll see your new project at the top of the list.</p>
 
-                <p class="text-right"><a ng-click="scrollTo('top')">back to top</a></p>
+                <a href="#top"><strong class="nexa">back to top</strong></a>             
                 
                 <a name="adding-users"><h2 class="blue" id="adding-users">Add users</h2></a>
 
@@ -75,10 +75,7 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
                 <p>You can invite people to log into the system once you have added a project. Open the main menu button in the top right corner and click <strong class="blue nexa">Send an invitation.</strong></p>
 
-             > We loved with a love that was more than love
-
- >  <p class="text-right"><a ng-click="scrollTo('top')">back to top</a></p>
- 				<a href="#top"><strong class="nexa">back to top</strong></a>
+            	<a href="#top"><strong class="nexa">back to top</strong></a>
                     
                 <a name="adding-data"><h2 class="blue" id="adding-data">Put your data into a project</h2></a>
                 <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/project-summary.png"></p>
@@ -94,7 +91,7 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
                 <p>When you're done, click <strong class="blue nexa">Save these Records</strong>. You are then forwarded to the search page so that you can see your uploaded results. Data which has come from one file is given an upload ID so that you can see which records came from the same file later on.</p>
 
-                <p class="text-right"><a ng-click="scrollTo('top')">back to top</a></p>
+                <a href="#top"><strong class="nexa">back to top</strong></a>
 
                 <a name="search"><h2 class="blue" id="search">Search your data</h2></a>
                 
@@ -108,7 +105,7 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
                 <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/saved-search.png"></p>
 
-                <p class="text-right"><a ng-click="scrollTo('top')">back to top</a></p>
+                <p class="text-right"><a href="#top"><strong class="nexa">back to top</strong></a></p>
 
                 <h2 class="blue" id="chem-search">Chemical searching</h2>
                 <p>If your system is set up to hold chemical data and you have at least one chemical project set up, you can search for compounds based on chemical similarity. To launch the chemical search form, click the button in the Structure column header. This will show a chemical sketcher and a choice of Substructure and Exact Match searches.</p>
@@ -117,7 +114,8 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
                 <p>You can use the Saved Searches feature with chemical search to save repeatedly sketching the same molecule.</p>
 
-                <p class="text-right"><a ng-click="scrollTo('top')">back to top</a></p>
+                <p class="text-right"><a href="#top"><strong class="nexa">back to top</strong></a></p>
+
 
                 <h2 class="blue" id="edit-data">Edit your data</h2>
                 <p></p>
@@ -128,7 +126,7 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
                     <li><em>Bulk edit multiple records</em> - you can do drag-to-fill editing for multiple records. Make sure the data to be edited is all in the same project and that project is selected in the search form. You should now see an Edit button link above the table - click it and you can now edit data directly within the table. When you're done, the data will be automatically saved. To make more changes, click Edit again.</li>
                 </ul>
 
-                <p class="text-right"><a ng-click="scrollTo('top')">back to top</a></p>
+                <p class="text-right"><a href="#top"><strong class="nexa">back to top</strong></a></p>
 
                 <a name="attachments"><h2 class="blue" id="attachments">Attach extra files</h2></a>
              
@@ -138,7 +136,7 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
                 <p>Click the grey <strong class="blue nexa">+</strong> icon to choose a file to add. It will be uploaded automatically. To remove a file, click the x in the top right corner of the thumbnail. When you're done, click <strong class="blue nexa">Update Project data</strong> to save your record.</p>
 
-                <p class="text-right"><a ng-click="scrollTo('top')">back to top</a></p>
+                <p class="text-right"><a href="#top"><strong class="nexa">back to top</strong></a></p>
 
                 <a name="export-data"><h2 class="blue" id="export-datas">Export your data</h2></a>
                
