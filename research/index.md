@@ -37,4 +37,4 @@ Project blog posts can be found [here](https://chembiohub.ox.ac.uk/blog/).
 
 ## Case studies
 
-Project case can be found [here](https://chembiohub.ox.ac.uk/casestudies/).
+Project case studies can be found [here](https://chembiohub.ox.ac.uk/casestudies/).
