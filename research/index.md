@@ -1,7 +1,7 @@
 ---
 layout: page
 root: ..
-title: Research (draft)
+title: Research
 published: true
 ---
 
