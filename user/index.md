@@ -207,7 +207,15 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                 </div>
 
                 
-            </div> 
+            </div>
+            
+<div class="col-xs-12">
+                <div class="well">
+                    <p class="nexa"><a role="button" class="btn btn-default" href="/files/faq/example-SDF-file.sdf"><span class="glyphicon glyphicon-floppy-disk"></span> Download</a> an example of an Excel file that could be registered in the system containing NO structural information </p>
+            </div>
+
+                
+</div> 
 
             
             <div class="col-xs-12">
