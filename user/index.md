@@ -21,9 +21,9 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 <div class="row">
     <div class="col-sm-8 col-sm-offset-2" data-spy="scroll" style="position: relative;">
 
-        <div class="row">
-            <div class="col-xs-12">
-                <div class="well text-center">
+    <div class="row">
+        <div class="col-xs-12">
+            <div class="well text-center">
                     <em>Jump to </em>: 
                     <a href="#setup"><strong class="nexa">Set up a new project</strong></a> | 
                     <a href="#adding-users"><strong class="nexa">Add users</strong></a> | 
@@ -33,9 +33,8 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
                     <a href="#chem-search"><strong class="nexa">Chemical searching</strong></a> | 
                     <a href="#edit-data"><strong class="nexa">Edit your data</strong></a> | 
                     <a href="#export-data"><strong class="nexa">Export your data</strong></a> | 
-                </div>
-                
-                
+            </div>
+ 
                 <p><h2 class="blue" id="problem">What to do if you have a problem</h2></p>
              
 If you encounter a problem with ChemiReg, and this help document does not provide the answer please use the menu box to submit an issue - click the ChemiReg logo and select <em>Report an Issue</em>.  Alternatively please [Get in Touch](http://showyourworking.github.io/project/HelpAndSupport.html) 
@@ -165,23 +164,10 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                     
        
 </div>
-    <strong>ChemiReg can accept .SDF files</strong>                 
-                    <!--
-                    <p> <a role="button" class="btn btn-default" href="/files/faq/example-excel-file-with-structures.xlsx"<span class="glyphicon glyphicon-floppy-disk"</span Download</a an example of an Excel file that could be registered in the system containing structural information. </p>
-                    <li> [Download](/assets/example-Excel-file-with-structures.xlsx) an example of an Excel file that could be registered in the system containing structural information.</li>
-                    <li>[Download](/assets/example-Excel-file-without-structures.xls) an example of an Excel file that could be registered in the system containing NO structural information.</li>
-                </ul>
-                -->
 
-<!--
-<div class="col-sm-5 col-sm-offset-2">
+<strong>ChemiReg can accept .SDF files</strong>                 
+    
 
-        <div class="row">
-
-            <div class="col-xs-12" >
-            
--->
-<!--
             <p ChemiReg can accept Excel .xlsx files (newer Office versions) </p
                 <h2 class="blue"<span class="glyphicon glyphicon-ok-circle" style="color:#3c763d;"</span ChemiReg can accept Excel .XLSX files (newer Office versions)</h2
             </div
@@ -195,7 +181,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
 
                     <p class="nexa"An Excel file may be submitted containing no structural information. In this case submit the file as the default “No structural information” using the available dropdown menu. This will assign each record with a unique ID as normal but with no structure information.</p
 
--->
+
             <div class="col-xs-12">
                 
                 <span class="glyphicon glyphicon-ok-circle"  style="color:#3c763d;"></span> ChemiReg can accept .SDF files
@@ -248,9 +234,6 @@ If you encounter a problem with ChemiReg, and this help document does not provid
     
                     <p class="nexa">Here are examples of a <strong>grouped compound (a salt) in a ChemDraw file</strong>, and the associated SDF that could be registered in the system.<br> <a role="button" class="btn btn-default" href="/files/faq/example-salt.cdx"><span class="glyphicon glyphicon-floppy-disk"></span> Download ChemDraw file</a> <a role="button" class="btn btn-default" href="/files/faq/examplesalt.sdf"><span class="glyphicon glyphicon-floppy-disk"></span> Download SDF file</a></p> 
                 </div>
-
-
-
 
 
     <div class="col-sm-3">
