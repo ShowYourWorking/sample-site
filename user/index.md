@@ -197,6 +197,10 @@ If you encounter a problem with ChemiReg, and this help document does not provid
 
 -->
             <div class="col-xs-12">
+                <h2 class="blue"><span class="glyphicon glyphicon-ok-circle"  style="color:#3c763d;"></span> ChemiReg can accept .SDF files</h2>
+            </div>
+            
+            <div class="col-xs-12">
                     <p class="nexa"<a role="button" class="btn btn-default" href="/files/faq/example-excel-file-with-structures.xlsx"<span class="glyphicon glyphicon-floppy-disk"</span Download</a an example of an Excel file that could be registered in the system containing structural information.</strong </p
 
                     <p class="nexa" <a role="button" class="btn btn-default" href="/files/faq/example-excel-file-without-structures.xlsx"<span class="glyphicon glyphicon-floppy-disk"</span Download</a an example of an Excel file that could be registered in the system containing NO structural information.</strong</p
