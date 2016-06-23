@@ -117,7 +117,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
 
                 <p class="text-right"><a href="#top"><strong class="nexa">back to top</strong></a></p>
 
-				<a name="chem-search"><h2 class="blue" id="chem-search">Chemical searching</h2></a> 
+<a name="chem-search"><h2 class="blue" id="chem-search">Chemical searching</h2></a> 
                 
                 <p>If your system is set up to hold chemical data and you have at least one chemical project set up, you can search for compounds based on chemical similarity. To launch the chemical search form, click the button in the Structure column header. This will show a chemical sketcher and a choice of Substructure and Exact Match searches.</p>
 
@@ -140,7 +140,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
 
                 <p class="text-right"><a href="#top"><strong class="nexa">back to top</strong></a></p>
 
-                <a name="attachments"><h2 class="blue" id="attachments">Attach extra files</h2></a>
+<a name="attachments"><h2 class="blue" id="attachments">Attach extra files</h2></a>
              
                 <p>One of the field types for the project fields that you set up at the start was File Upload. This means that you can attach extra files (like pictures, PowerPoint files, PDFs and more) to a data record. Make sure one of your project fields is a File Upload field, go to the record you want to attach a file to and click Edit.</p>
 
@@ -150,7 +150,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
 
                 <p class="text-right"><a href="#top"><strong class="nexa">back to top</strong></a></p>
 
-                <a name="export-data"><h2 class="blue" id="export-datas">Export your data</h2></a>
+<a name="export-data"><h2 class="blue" id="export-datas">Export your data</h2></a>
                
                 <p>If you want to export your data in an Excel file, you can do so on the search page. Pick your search parameters and when you're ready, choose <strong class="blue nexa">Export all to Excel</strong> from the Export menu. If you have any Chemistry projects, you can also <strong class="blue nexa">Export all to SDF</strong>.</p>
 
@@ -167,7 +167,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
 
 <div class="row">
     <div class="col-sm-8 col-sm-offset-2">
-        <h2 class="subheading"><small>File Submission - What ChemiReg can and can’t accept currently</small></h2>
+        <h2 class="subheading"><small>File Submission - What ChemiReg can and can’t accept ssss currently</small></h2>
     </div>
     
     <strong>ChemiReg can accept Excel .xlsx files (newer Office versions)  </strong>
