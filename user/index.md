@@ -166,6 +166,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                     <li>[Download](/assets/example-Excel-file-without-structures.xls) an example of an Excel file that could be registered in the system containing NO structural information.</li>
                 </ul>
 
+    <!--
      <div class="col-sm-5 col-sm-offset-2"
 
         <div class="row"
@@ -189,6 +190,9 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                     <p class="nexa" <a role="button" class="btn btn-default" href="/files/faq/example-excel-file-without-structures.xlsx"<span class="glyphicon glyphicon-floppy-disk"</span Download</a an example of an Excel file that could be registered in the system containing NO structural information.</strong</p
                 </div
             </div
+            
+            -->
+            
             <div class="col-xs-12">
                 <h2 class="blue"><span class="glyphicon glyphicon-ok-circle"  style="color:#3c763d;"></span> ChemiReg can accept .SDF files</h2>
             </div>
