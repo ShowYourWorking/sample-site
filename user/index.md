@@ -151,27 +151,22 @@ If you encounter a problem with ChemiReg, and this help document does not provid
 
 <div class="row">
     <div class="col-sm-8 col-sm-offset-2">
-        <h2 class="subheading"><small>File Submission - What ChemiReg can and can’t accept currently</small></h2>
+        <h2 class="subheading"><small>File Submission - What ChemiReg can and can’t accept currently:</small></h2>
     </div>
     
-    <strong>ChemiReg can accept Excel .xlsx files (newer Office versions)  </strong>
+    <strong>ChemiReg can accept Excel .xlsx files (newer Office versions)<br>  </strong>
     
         <ul>
                     <li>The file must contain column headers in the top row, with all data organised in the relevant columns underneath. Figures and images cannot currently be accepted.</li>
                     <li>The submitted Excel file may contain structural information.  In this case, use the dropdown menu to select the column heading which containing structural information (eg. SMILES). This will ensure a compound structure is drawn in the system following submission.</li>
                     
         </ul>
-                    
-       
 </div>
           
-
  <div class="col-xs-12">
              <div class="well">
                     <p class="nexa"><a role="button" class="btn btn-default" href="/assets/example-Excel-file-with-structures.xlsx"><span class="glyphicon glyphicon-floppy-disk"></span> Download</a> an example of an Excel file that could be registered in the system containing structural information </p>
              </div>
-
-                
   </div>
             
 <div class="col-xs-12">
@@ -182,7 +177,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                 
 </div> 
 
-<strong>ChemiReg can accept .SDF files  </strong>
+<strong>ChemiReg can accept .SDF files <br> </strong>
             
             <div class="col-xs-12">
                 <div class="well">
@@ -190,32 +185,25 @@ If you encounter a problem with ChemiReg, and this help document does not provid
 
                     <p class="nexa"><a role="button" class="btn btn-default" href="/files/faq/example-SDF-file.sdf"><span class="glyphicon glyphicon-floppy-disk"></span> Download</a> an example of an SDF file that could be registered in the system</p>
                 </div>
-
-                
             </div> 
 
-<strong>ChemiReg can accept ChemDraw data when saved in SDF format</strong>
-
+<strong>ChemiReg can accept ChemDraw data when saved in SDF format<br></strong>
 
             <div class="col-xs-12">
                 <div class="well">
-                    <p class="nexa"><em>To find out how to format your ChemDraw files to be saved to ChemiReg, please refer to the following help document.</em></p>
+                    <p class="nexa">ChemDraw files can be saved to ChemiReg.  To ensure success, bear in mind:</p>
                 
                     <p class="nexa">ChemDraw files should be drawn with no descriptive linkers or arrows between molecules. Note that any entity in a file that is not explicitly bonded to another compound will also be registered as a separate entity. </p>
     
-                    <p class="nexa"><a role="button" class="btn btn-default" href="/files/faq/example-ChemDraw-file-correct-format.cdx"><span class="glyphicon glyphicon-floppy-disk"></span> Download</a> an example of a CDXML file with <strong>compounds organised in the correct format </strong></p>
-    
-                    <p class="nexa"><a role="button" class="btn btn-default" href="/files/faq/example-ChemDraw-file-Incorrect-Format.cdx"><span class="glyphicon glyphicon-floppy-disk"></span> Download</a> an example of a CDXML file with <strong>compounds NOT organised in the correct format </strong></p>
-    
-                    <p class="nexa">If you wish for associated structures that are not bonded to be registered as the same entity (such as a salt) please follow these steps:<br>
+                     <p class="nexa">If you wish for associated structures that are not bonded to be registered as the same entity (such as a salt) please follow these steps:<br>
                         <ol style="font-family:NexaLight">
-                            <li class="nexa">In ChemDraw, please group the associated molecules using “Ctrl+G” or the equivalent Mac command</li>
+                            <li class="nexa">In ChemDraw, group the associated molecules using “Ctrl+G” or the equivalent Mac command</li>
                             <li class="nexa">Save the ChemDraw file as an SDF</li>
                             <li class="nexa">Upload the SDF file into ChemiReg as normal. Note that you can still submit multiple compounds, (grouped or not) in the same file by following this process.</li>
                         </ol>
                     </p>
     
-                    <p class="nexa">Here are examples of a <strong>grouped compound (a salt) in a ChemDraw file</strong>, and the associated SDF that could be registered in the system.<br> <a role="button" class="btn btn-default" href="/files/faq/example-salt.cdx"><span class="glyphicon glyphicon-floppy-disk"></span> Download ChemDraw file</a> <a role="button" class="btn btn-default" href="/files/faq/examplesalt.sdf"><span class="glyphicon glyphicon-floppy-disk"></span> Download SDF file</a></p> 
+                   
                 </div>
 
 
