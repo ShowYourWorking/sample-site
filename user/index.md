@@ -183,7 +183,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                 <div class="well">
                     <p class="nexa">Most SDF files can be uploaded without issue.</p>
 
-                    <p class="nexa"><a role="button" class="btn btn-default" href="/files/faq/example-SDF-file.sdf"><span class="glyphicon glyphicon-floppy-disk"></span> Download</a> an example of an SDF file that could be registered in the system</p>
+                    <p class="nexa"><a role="button" class="btn btn-default" href="/assets/Sample_SDF.sdf"><span class="glyphicon glyphicon-floppy-disk"></span> Download</a> an example of an SDF file that could be registered in the system</p>
                 </div>
             </div> 
 
