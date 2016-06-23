@@ -161,9 +161,9 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                     <li>The file must contain column headers in the top row, with all data organised in the relevant columns underneath. Figures and images cannot currently be accepted.</li>
                     <li>The submitted Excel file may contain structural information.  In this case, use the dropdown menu to select the column heading which containing structural information (eg. SMILES). This will ensure a compound structure is drawn in the system following submission.</li>
                     
-                    </ul>
+        </ul>
                     
-                    some words xxxx
+        
 </div>
                     
                     <!--
