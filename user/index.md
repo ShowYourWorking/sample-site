@@ -166,7 +166,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                     <li>[Download](/assets/example-Excel-file-without-structures.xls) an example of an Excel file that could be registered in the system containing NO structural information.</li>
                 </ul>
 
-    <!--> <div class="col-sm-5 col-sm-offset-2"
+     <div class="col-sm-5 col-sm-offset-2"
 
         <div class="row"
 
