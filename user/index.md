@@ -173,11 +173,14 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                 </ul>
                 -->
 
+<!--
 <div class="col-sm-5 col-sm-offset-2">
 
         <div class="row">
 
             <div class="col-xs-12" >
+            
+-->
             <p ChemiReg can accept Excel .xlsx files (newer Office versions) </p
                 <h2 class="blue"<span class="glyphicon glyphicon-ok-circle" style="color:#3c763d;"</span ChemiReg can accept Excel .XLSX files (newer Office versions)</h2
             </div
