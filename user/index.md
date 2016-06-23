@@ -164,6 +164,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                     <li>The submitted Excel file may contain structural information.  In this case, use the dropdown menu to select the column heading which containing structural information (eg. SMILES). This will ensure a compound structure is drawn in the system following submission.</li>
                     
                     </ul>
+</div>
                     
                     <!--
                     <p> <a role="button" class="btn btn-default" href="/files/faq/example-excel-file-with-structures.xlsx"<span class="glyphicon glyphicon-floppy-disk"</span Download</a an example of an Excel file that could be registered in the system containing structural information. </p>
@@ -171,8 +172,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                     <li>[Download](/assets/example-Excel-file-without-structures.xls) an example of an Excel file that could be registered in the system containing NO structural information.</li>
                 </ul>
                 -->
-</div>
-   
+
      <div class="col-sm-5 col-sm-offset-2"
 
         <div class="row"
