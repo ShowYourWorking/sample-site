@@ -18,8 +18,6 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
     </div>
 </div>
 
-
-
 <div class="row">
     <div class="col-sm-8 col-sm-offset-2" data-spy="scroll" style="position: relative;">
 
@@ -159,11 +157,13 @@ If you encounter a problem with ChemiReg, and this help document does not provid
     
     <strong>ChemiReg can accept Excel .xlsx files (newer Office versions)  </strong>
     
-   <ul>
+        <ul>
                     <li>The file must contain column headers in the top row, with all data organised in the relevant columns underneath. Figures and images cannot currently be accepted.</li>
                     <li>The submitted Excel file may contain structural information.  In this case, use the dropdown menu to select the column heading which containing structural information (eg. SMILES). This will ensure a compound structure is drawn in the system following submission.</li>
                     
                     </ul>
+                    
+                    some words xxxx
 </div>
                     
                     <!--
