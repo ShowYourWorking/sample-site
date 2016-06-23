@@ -165,8 +165,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
        
 </div>
 
-<strong>ChemiReg can accept .SDF files</strong>                 
-    
+
 <!--
             <p ChemiReg can accept Excel .xlsx files (newer Office versions) </p
                 <h2 class="blue"<span class="glyphicon glyphicon-ok-circle" style="color:#3c763d;"</span ChemiReg can accept Excel .XLSX files (newer Office versions)</h2
