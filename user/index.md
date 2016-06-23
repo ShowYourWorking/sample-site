@@ -224,14 +224,10 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                         </ol>
                     </p>
     
-                    <p class="nexa">Here are examples of a <strong>grouped compound (a salt) in a ChemDraw file</strong>, and the associated SDF that could be registered in the system.<br> <a role="button" class="btn btn-default" href="/files/faq/example-salt.cdx"><span class="glyphicon glyphicon-floppy-disk"></span> Download ChemDraw file</a> <a role="button" class="btn btn-default" href="/files/faq/examplesalt.sdf"><span class="glyphicon glyphicon-floppy-disk"></span> Download SDF file</a></p> -->
+                    <p class="nexa">Here are examples of a <strong>grouped compound (a salt) in a ChemDraw file</strong>, and the associated SDF that could be registered in the system.<br> <a role="button" class="btn btn-default" href="/files/faq/example-salt.cdx"><span class="glyphicon glyphicon-floppy-disk"></span> Download ChemDraw file</a> <a role="button" class="btn btn-default" href="/files/faq/examplesalt.sdf"><span class="glyphicon glyphicon-floppy-disk"></span> Download SDF file</a></p> 
                 </div>
 
-            </div>
 
-        </div>
-
-    </div>
 
 
 
