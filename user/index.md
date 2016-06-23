@@ -194,9 +194,8 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                 
             </div> 
 
-            <div class="col-xs-12">
-                <h2 class="blue"><span class="glyphicon glyphicon-ok-circle" style="color:#3c763d;"></span> ChemiReg can accept ChemDraw data when saved in SDF format</h2>
-            </div>
+<strong>ChemiReg can accept ChemDraw data when saved in SDF format</strong>
+
 
             <div class="col-xs-12">
                 <div class="well">
