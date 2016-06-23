@@ -163,7 +163,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                     
         </ul>
                     
-        
+    <strong>ChemiReg can accept .SDF files</strong>    
 </div>
                     
                     <!--
