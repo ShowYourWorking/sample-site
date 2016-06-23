@@ -121,7 +121,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                 
                 <p>If your system is set up to hold chemical data and you have at least one chemical project set up, you can search for compounds based on chemical similarity. To launch the chemical search form, click the button in the Structure column header. This will show a chemical sketcher and a choice of Substructure and Exact Match searches.</p>
 
-                <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/chemicalsearch.png"></p>
+                <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/chemicalsearch.PNG"></p>
 
                 <p>You can use the Saved Searches feature with chemical search to save repeatedly sketching the same molecule.</p>
 
