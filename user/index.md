@@ -197,7 +197,8 @@ If you encounter a problem with ChemiReg, and this help document does not provid
 
 -->
             <div class="col-xs-12">
-                <h2 class="blue"><span class="glyphicon glyphicon-ok-circle"  style="color:#3c763d;"></span> ChemiReg can accept .SDF files</h2>
+                
+                <span class="glyphicon glyphicon-ok-circle"  style="color:#3c763d;"></span> ChemiReg can accept .SDF files
             </div>
             
             <div class="col-xs-12">
