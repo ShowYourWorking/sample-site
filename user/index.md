@@ -10,17 +10,12 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
 
 ## Using ShowYourWorking
 
-((TODO separate out generic-use user steps from chemireg-specific usage steps))
-
-((TODO current user help docs are now out of date - much search functionality has changed. Needs rewriting in a generic way for ShowYourWorking. Altered functionality and screenshots to be accounted for ))
-
 <div class="row mt">
     <div class="col-sm-8 col-sm-offset-2"  style="padding-left:15px;">
         
         <a name="top" href="#chemireg-section"><h2 class="blue" id="top">ChemBio Hub platform Help section<br><small>How-tos, information and FAQs</small></h2> </a>
                           
     </div>
-
 </div>
 
 
@@ -31,7 +26,7 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
         <div class="row">
             <div class="col-xs-12">
                 <div class="well text-center">
-                    <em>Jump to</em>: 
+                    <em>Jump to </em>: 
                     <a href="#setup"><strong class="nexa">Set up a new project</strong></a> | 
                     <a href="#adding-users"><strong class="nexa">Add users</strong></a> | 
                     <a href="#adding-data"><strong class="nexa">Put your data into a project</strong></a> | 
@@ -47,15 +42,10 @@ use {{ site.software_name }} i.e. contain our current adapted end-user documenta
              
 If you encounter a problem with ChemiReg, and this help document does not provide the answer please use the menu box to submit an issue - click the ChemiReg logo and select <em>Report an Issue</em>.  Alternatively please [Get in Touch](http://showyourworking.github.io/project/HelpAndSupport.html) 
 
-
-
-
 <a name="setup"><h2 class="blue" id="setup">Set up a new project</h2></a>
-                <p>When you first log in to ChemBio Hub, you are shown a list of projects. If you're using the system for the first time, this may be an empty list, so you'll have to add a project. To do this, click the <strong class="blue nexa">Add Project</strong> button. You'll be shown a popup window where you can specify a title for your project, the type of project it is, whether you want it to start an incremental counter field and also project data fields.</p>
+    <p>When you first log in to ChemBio Hub, you are shown a list of projects. If you're using the system for the first time, this may be an empty list, so you'll have to add a project. To do this, click the <strong class="blue nexa">Add Project</strong> button. You'll be shown a popup window where you can specify a title for your project, the type of project it is, whether you want it to start an incremental counter field and also project data fields.</p>
 
-                <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/add-project.png"></p>
-
-                
+    <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/add-project.png"></p>
 
                 <p>The project data fields are part of what makes ChemBio Hub so useful - these are columns in your data that you can make mandatory for people adding data, have text, numeric, multiple choice, tagging or even file attachment fields. Fill in the parts of the field as required. If you want to add more, click the <strong class="blue nexa">Add</strong> button. When you're done, click <strong class="blue nexa">Save Changes and Close</strong>.</p>
 
@@ -64,18 +54,15 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                 <p>The page will reload and you'll see your new project at the top of the list.</p>
 
                 <a href="#top"><strong class="nexa">back to top</strong></a>
-                                
-                <a name="adding-users"><h2 class="blue" id="adding-users">Add users</h2></a>
-
-                               <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/project-summary.png"></p>
-
+  
+  <a name="adding-users"><h2 class="blue" id="adding-users">Add users</h2></a>
+     <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/project-summary.png"></p>
 
                 <p>Now you have your project set up how you want it, you are the project owner and can do things like add more fields, and change whether fields are mandatory. Another important thing you can do is to add users to your project. You can do this by clicking on the <strong class="blue nexa">Edit User Roles</strong> link on your project.</p>
 
                 <p class="text-center"><img src="img img-responsive img-thumbnail" src="/assets/images/help/user-roles.png"></p>
 
                In the popup window, you can add users to your project with different roles:
-               
                
                <p><strong>Owners</strong> can edit everything about the project and add other users.
                <p><strong>Editors</strong> can edit and view data which has been added but nothing else. 
@@ -167,7 +154,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
 
 <div class="row">
     <div class="col-sm-8 col-sm-offset-2">
-        <h2 class="subheading"><small>File Submission - What ChemiReg can and can’t accept ssss currently</small></h2>
+        <h2 class="subheading"><small>File Submission - What ChemiReg can and can’t accept currently</small></h2>
     </div>
     
     <strong>ChemiReg can accept Excel .xlsx files (newer Office versions)  </strong>
@@ -182,7 +169,6 @@ If you encounter a problem with ChemiReg, and this help document does not provid
     <!--> <div class="col-sm-5 col-sm-offset-2"
 
         <div class="row"
-            
 
             <div class="col-xs-12"
             <p ChemiReg can accept Excel .xlsx files (newer Office versions) </p
@@ -224,7 +210,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                 <div class="well">
                     <p class="nexa"><em>To find out how to format your ChemDraw files to be saved to ChemiReg, please refer to the following help document.</em></p>
                 
-                    <!-- <p class="nexa">ChemDraw files should be drawn with no descriptive linkers or arrows between molecules. Note that any entity in a file that is not explicitly bonded to another compound will also be registered as a separate entity. </p>
+                    <p class="nexa">ChemDraw files should be drawn with no descriptive linkers or arrows between molecules. Note that any entity in a file that is not explicitly bonded to another compound will also be registered as a separate entity. </p>
     
                     <p class="nexa"><a role="button" class="btn btn-default" href="/files/faq/example-ChemDraw-file-correct-format.cdx"><span class="glyphicon glyphicon-floppy-disk"></span> Download</a> an example of a CDXML file with <strong>compounds organised in the correct format </strong></p>
     
@@ -266,14 +252,6 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                 </div>
             </div>
         </div>
-
-    </div>
-
-
-
-    
-
-    
 
 
 
