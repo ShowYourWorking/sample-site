@@ -163,9 +163,9 @@ If you encounter a problem with ChemiReg, and this help document does not provid
                     
         </ul>
                     
-    <strong>ChemiReg can accept .SDF files</strong>    
+       
 </div>
-                    
+    <strong>ChemiReg can accept .SDF files</strong>                 
                     <!--
                     <p> <a role="button" class="btn btn-default" href="/files/faq/example-excel-file-with-structures.xlsx"<span class="glyphicon glyphicon-floppy-disk"</span Download</a an example of an Excel file that could be registered in the system containing structural information. </p>
                     <li> [Download](/assets/example-Excel-file-with-structures.xlsx) an example of an Excel file that could be registered in the system containing structural information.</li>
