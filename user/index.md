@@ -162,7 +162,7 @@ If you encounter a problem with ChemiReg, and this help document does not provid
    <ul>
                     <li>The file must contain column headers in the top row, with all data organised in the relevant columns underneath. Figures and images cannot currently be accepted.</li>
                     <li>The submitted Excel file may contain structural information.  In this case, use the dropdown menu to select the column heading which containing structural information (eg. SMILES). This will ensure a compound structure is drawn in the system following submission.</li>
-                    <p> class="nexa"<a role="button" class="btn btn-default" href="/files/faq/example-excel-file-with-structures.xlsx"<span class="glyphicon glyphicon-floppy-disk"</span Download</a an example of an Excel file that could be registered in the system containing structural information.</strong </p>
+                    <p> <a role="button" class="btn btn-default" href="/files/faq/example-excel-file-with-structures.xlsx"<span class="glyphicon glyphicon-floppy-disk"</span Download</a an example of an Excel file that could be registered in the system containing structural information. </p>
                     <li> [Download](/assets/example-Excel-file-with-structures.xlsx) an example of an Excel file that could be registered in the system containing structural information.</li>
                     <li>[Download](/assets/example-Excel-file-without-structures.xls) an example of an Excel file that could be registered in the system containing NO structural information.</li>
                 </ul>
