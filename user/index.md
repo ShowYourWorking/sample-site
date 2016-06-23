@@ -196,13 +196,11 @@ If you encounter a problem with ChemiReg, and this help document does not provid
             -->
             
            <div class="col-xs-12">
-                <h2 class="blue"><span class="glyphicon glyphicon-ok-circle"  style="color:#3c763d;"></span> ChemiRegxx can accept .SDF files</h2>
+                <h2 class="blue"><span class="glyphicon glyphicon-ok-circle"  style="color:#3c763d;"></span> examples of Excel files </h2>
             </div>
 
             <div class="col-xs-12">
                 <div class="well">
-                    <p class="nexa">Most SDF files can be uploaded without issue.</p>
-
                     <p class="nexa"><a role="button" class="btn btn-default" href="/files/faq/example-SDF-file.sdf"><span class="glyphicon glyphicon-floppy-disk"></span> Download</a> an example of an Excel file that could be registered in the system containing structural information </p>
                 </div>
 
